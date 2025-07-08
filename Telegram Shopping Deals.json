@@ -1,0 +1,470 @@
+{
+  "name": "Telegram Shopping Deals",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "b12ad0d5-8a1c-4529-ad01-978ad6c322ec",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        20,
+        0
+      ],
+      "id": "5ff8f9ed-176f-40d5-b8f1-d029122307ed",
+      "name": "Webhook",
+      "webhookId": "b12ad0d5-8a1c-4529-ad01-978ad6c322ec"
+    },
+    {
+      "parameters": {
+        "jsCode": "const text = $json.body.message;\nconst urlRegex = /(https?:\\/\\/[^\\s]+)/g;\nconst links = text.match(urlRegex);\nconst firstLink = links ? links[0] : null;\n\nreturn [\n  {\n    json: {\n      text,\n      link: firstLink\n    }\n  }\n];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        240,
+        0
+      ],
+      "id": "e1b6542c-869d-4a8e-899c-314763dc2189",
+      "name": "Extract Message & Link"
+    },
+    {
+      "parameters": {
+        "url": "=https://gplinks.in/api?api={{$env.GP_API_KEY}}&url={{$json[\"link\"]}}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        460,
+        0
+      ],
+      "id": "73851ad0-3c3a-4edd-9b9b-4128f4e37e48",
+      "name": "HTTP Request"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "deb2fc24-ef4d-4931-a1dd-b02ab2c891e1",
+              "name": "text",
+              "value": "`🔥 *New Deal Alert!*\\n\\n🛍️ ${$json[\"text\"]}\\n\\n🔗 [🛒 Buy Now]($json[\"shortenedUrl\"])`\n",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        680,
+        0
+      ],
+      "id": "f2b93581-48c9-46e1-9ab4-156c3c19f103",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://api.telegram.org/bot{{$env.BOT_TOKEN}}/sendMessage",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "chat_id",
+              "value": "@Smart_Loot_Deals_324\t"
+            },
+            {
+              "name": "text",
+              "value": "={{$json[\"text\"]}}"
+            },
+            {
+              "name": "parse_mode",
+              "value": "Markdown"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        900,
+        0
+      ],
+      "id": "e14800e8-103b-421f-9c2b-e07aef95eaad",
+      "name": "Send to Telegram Channel"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1RNLdAdEnXa2EgcE1TSHIXc0LWPdeLrDnzsYdTpcT44c",
+          "mode": "list",
+          "cachedResultName": "DealTracker",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1RNLdAdEnXa2EgcE1TSHIXc0LWPdeLrDnzsYdTpcT44c/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Sheet1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1RNLdAdEnXa2EgcE1TSHIXc0LWPdeLrDnzsYdTpcT44c/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "message": "={{ $json[\"message\"] }}",
+            "original_link ": "=={{ $json[\"original_link\"] }}",
+            "shortened_link ": "=={{ $json[\"shortened_link\"] }}",
+            "timestamp": "={{ $json[\"timestamp\"] }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "message",
+              "displayName": "message",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "original_link ",
+              "displayName": "original_link ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "shortened_link ",
+              "displayName": "shortened_link ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "timestamp",
+              "displayName": "timestamp",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.6,
+      "position": [
+        1120,
+        0
+      ],
+      "id": "c6d2f2e5-c61b-4055-ac7f-4feaa4f2e9cd",
+      "name": "Append row in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "hBDvtSqVpuPXSgIf",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 3
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        1340,
+        0
+      ],
+      "id": "623dc023-22c4-4c85-8032-400946812a7c",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "1RNLdAdEnXa2EgcE1TSHIXc0LWPdeLrDnzsYdTpcT44c",
+          "mode": "list",
+          "cachedResultName": "DealTracker",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1RNLdAdEnXa2EgcE1TSHIXc0LWPdeLrDnzsYdTpcT44c/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "mode": "id",
+          "value": "gid=0"
+        },
+        "options": {
+          "dataLocationOnSheet": {
+            "values": {
+              "rangeDefinition": "detectAutomatically"
+            }
+          },
+          "outputFormatting": {
+            "values": {
+              "general": "UNFORMATTED_VALUE",
+              "date": "FORMATTED_STRING"
+            }
+          },
+          "returnFirstMatch": false
+        }
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.6,
+      "position": [
+        1560,
+        0
+      ],
+      "id": "3ba75bcb-cf9b-421b-bcec-c8a3e8d9636f",
+      "name": "Get row(s) in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "hBDvtSqVpuPXSgIf",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const ONE_DAY = 24 * 60 * 60 * 1000; // 24 hours in ms\nconst now = new Date();\n\nconst filteredItems = items.filter(item => {\n  const row = item.json;\n  const timestamp = new Date(row.timestamp);\n  const diff = now - timestamp;\n  return diff <= ONE_DAY;\n});\n\nreturn filteredItems;\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1780,
+        0
+      ],
+      "id": "85b415bf-a1aa-4e9e-afb8-d842d3210de5",
+      "name": "Filter Recent Deals"
+    },
+    {
+      "parameters": {
+        "url": "=https://gplinks.in/api?api={{$env.GPLINKS_API_KEY}}&url={{$json[\"original_link\"]}}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        2000,
+        0
+      ],
+      "id": "46691aa8-742a-4b6a-adba-99e9cc163f02",
+      "name": "Shorten with GPLinks"
+    },
+    {
+      "parameters": {
+        "jsCode": "return items.map(item => {\n  const original = item.json;\n  const shortLink = item.json.shortenedUrl || item.json.shortenedurl || \"https://gplinks.in\"; // fallback\n\n  return {\n    json: {\n      chat_id: \"{{1002714087128}}\", // Optional if using Telegram node directly\n      message_text: `🔥 *New Deal Alert!*\\n\\n🛍️ *Product:* ${original.message}\\n🔗 *Deal Link:* ${shortLink}\\n\\n🕒 *Posted:* ${original.timestamp}`,\n      inline_keyboard: [\n        [\n          {\n            text: \"🛒 Buy Now\",\n            url: shortLink\n          }\n        ]\n      ]\n    }\n  };\n});\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2200,
+        0
+      ],
+      "id": "447cbfdc-25bb-4e7a-bb9b-1081342ca65f",
+      "name": "Format Telegram Message"
+    },
+    {
+      "parameters": {
+        "chatId": "@Smart_Loot_Deals_324",
+        "text": "={{ $json[\"message_text\"] }}",
+        "additionalFields": {
+          "disable_web_page_preview": true,
+          "parse_mode": "Markdown"
+        }
+      },
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        2360,
+        0
+      ],
+      "id": "4ade1de8-5dcb-430f-8d84-478a178af1ee",
+      "name": "Send a text message",
+      "webhookId": "df1c9dec-5919-4aff-a9b4-d408e75d469b",
+      "credentials": {
+        "telegramApi": {
+          "id": "65E00TxL6GTQWG30",
+          "name": "Telegram account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        2580,
+        0
+      ],
+      "id": "ddab240a-5058-4ed4-9ab0-593de73abd54",
+      "name": "Schedule Trigger1"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Extract Message & Link",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract Message & Link": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Send to Telegram Channel",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send to Telegram Channel": {
+      "main": [
+        [
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Get row(s) in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get row(s) in sheet": {
+      "main": [
+        [
+          {
+            "node": "Filter Recent Deals",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter Recent Deals": {
+      "main": [
+        [
+          {
+            "node": "Shorten with GPLinks",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Shorten with GPLinks": {
+      "main": [
+        [
+          {
+            "node": "Format Telegram Message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Telegram Message": {
+      "main": [
+        [
+          {
+            "node": "Send a text message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger1": {
+      "main": [
+        [
+          {
+            "node": "Get row(s) in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "813146c4-bf0d-4811-8abd-7eb38700be9e",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "32651fe937b80478102de662be3f63a1242e4f05f11941d50225fc51c7b417e9"
+  },
+  "id": "XhC9MxZUuRc4v66G",
+  "tags": []
+}
