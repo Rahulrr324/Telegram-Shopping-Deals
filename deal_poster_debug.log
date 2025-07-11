@@ -1,0 +1,1562 @@
+2025-07-10 19:20:57,239 - INFO - 🚀 Starting application main loop
+2025-07-10 19:20:57,240 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-10 19:20:57,326 - INFO - 💾 Database initialized
+2025-07-10 19:20:59,391 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-10 19:21:44,213 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-10 19:21:44,214 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-10 19:21:44,214 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-10 19:21:44,215 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-10 19:21:44,215 - INFO - 🌐 Starting website deal monitoring...
+2025-07-10 19:21:44,216 - INFO - 🔄 Checking websites for new deals...
+2025-07-10 19:21:44,226 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 19:21:44,227 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 19:21:44,553 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-10 19:21:44,558 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 0
+2025-07-10 19:21:44,559 - INFO - 🆕 First time setup for @LootWaliShopping2_0 - setting sync point
+2025-07-10 19:21:44,917 - INFO - 📌 Set initial sync point: 1447
+2025-07-10 19:21:44,918 - INFO - 📡 Setting up monitoring for @dealskabaapp
+2025-07-10 19:21:47,369 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 19:21:48,855 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store
+2025-07-10 19:21:50,952 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 19:21:52,580 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 19:21:52,581 - INFO - ✅ Scraped 7 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 19:21:52,582 - INFO - 🔓 Access confirmed: 🔥🔥 Deals Ka Baap (LOOT DEALS ONLY) (ID: -1001228910825)
+2025-07-10 19:21:52,587 - INFO - 🔄 Syncing new messages for @dealskabaapp since message ID: 0
+2025-07-10 19:21:52,588 - INFO - 🆕 First time setup for @dealskabaapp - setting sync point
+2025-07-10 19:21:55,581 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 19:21:55,587 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 19:21:57,262 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 19:21:57,263 - INFO - ✅ Scraped 7 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 19:22:00,095 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 19:22:00,146 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,164 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,170 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,174 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,186 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,190 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,192 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,207 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,215 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,222 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:00,224 - INFO - ✅ Scraped 10 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 19:22:00,226 - INFO - ✅ Total unique Amazon deals: 9
+2025-07-10 19:22:01,160 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 19:22:01,161 - INFO - ✅ Total unique Flipkart deals: 14
+2025-07-10 19:22:01,182 - INFO - 📌 Set initial sync point: 6276
+2025-07-10 19:22:01,183 - INFO - 📡 Setting up monitoring for @dealsdroppers
+2025-07-10 19:22:01,185 - INFO - 📊 Total website deals found: 23
+2025-07-10 19:22:01,185 - INFO - 📊 Total unique website deals: 23
+2025-07-10 19:22:01,240 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:01,240 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:01,241 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:01,580 - INFO - 🔓 Access confirmed: Deals Dropers (ID: -1002349575648)
+2025-07-10 19:22:01,581 - INFO - 🔄 Syncing new messages for @dealsdroppers since message ID: 0
+2025-07-10 19:22:01,582 - INFO - 🆕 First time setup for @dealsdroppers - setting sync point
+2025-07-10 19:22:01,747 - INFO - 📌 Set initial sync point: 7657
+2025-07-10 19:22:01,748 - INFO - ✅ Initial sync completed for all channels
+2025-07-10 19:22:01,748 - INFO - 🚀 Real-time monitoring activated - waiting for new messages...
+2025-07-10 19:22:02,706 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:02,747 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:07,760 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:07,761 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:07,761 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:09,031 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:09,064 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:14,072 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:14,073 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:14,073 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:15,343 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:15,378 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:20,383 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:20,384 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:20,384 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:22,252 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:22,296 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:27,300 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:27,301 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:27,302 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:28,970 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:29,006 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:34,014 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:34,015 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:34,015 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:35,163 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:35,205 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:40,208 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:40,209 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:40,209 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:41,719 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:41,756 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:46,758 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:46,759 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:46,759 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:48,099 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:48,149 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:22:53,152 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:22:53,153 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:22:53,154 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:22:54,274 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:22:54,321 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:23:17,285 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/united-cogs-analog-30-cm-x-wall-clock/p/itmfc2aseejwbkdz?pid=WCKFCFRFRXVG64WS&lid=LSTWCKFCFRFRXVG64WSZRYYUU&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_bb4769a5-e028-47d2-9cf0-113c92f3a543_2_KRLTMJ8QXFB1_MC.WCKFCFRFRXVG64WS&ppt=None&ppn=None&ssid=ee7m0zavm80000001752155510803&otracker=clp_pmu_v2_Wall%2BClock_1_2.productCard.PMU_V2_United%2Bcogs%2BAnalog%2B30%2Bcm%2BX%2B30%2Bcm%2BWall%2BClock_offers-store_WCKFCFRFRXVG64WS_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_1_NA_view-all&cid=WCKFCFRFRXVG64WS: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 19:23:17,286 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:23:18,293 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:23:18,295 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:23:19,905 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:23:19,944 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:23:39,972 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/zintex-decor-your-dream-analog-52-cm-x-wall-clock/p/itmd8a1570807a29?pid=WCKH8DYKDUJJF2GT&lid=LSTWCKH8DYKDUJJF2GTWBHWKS&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_bb4769a5-e028-47d2-9cf0-113c92f3a543_2_KRLTMJ8QXFB1_MC.WCKH8DYKDUJJF2GT&ppt=None&ppn=None&ssid=ee7m0zavm80000001752155510803&otracker=clp_pmu_v2_Wall%2BClock_2_2.productCard.PMU_V2_Zintex-Decor%2BYour%2BDream%2BAnalog%2B52%2Bcm%2BX%2B52%2Bcm%2BWall%2BClock_offers-store_WCKH8DYKDUJJF2GT_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_2_NA_view-all&cid=WCKH8DYKDUJJF2GT: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/zintex-decor-your-dream-analog-52-cm-x-wall-clock/p/itmd8a1570807a29%3Fpid%3DWCKH8DYKDUJJF2GT%26lid%3DLSTWCKH8DYKDUJJF2GTWBHWKS%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_bb4769a5-e028-47d2-9cf0-113c92f3a543_2_KRLTMJ8QXFB1_MC.WCKH8DYKDUJJF2GT%26ppt%3DNone%26ppn%3DNone%26ssid%3Dee7m0zavm80000001752155510803%26otracker%3Dclp_pmu_v2_Wall%252BClock_2_2.productCard.PMU_V2_Zintex-Decor%252BYour%252BDream%252BAnalog%252B52%252Bcm%252BX%252B52%252Bcm%252BWall%252BClock_offers-store_WCKH8DYKDUJJF2GT_neo%252Fmerchandising_1%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Wall%252BClock_LIST_productCard_cc_2_NA_view-all%26cid%3DWCKH8DYKDUJJF2GT (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F4C29696D0>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 19:23:39,974 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:23:40,979 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:23:40,980 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:23:42,628 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:23:42,680 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:24:04,696 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/got-dreams-analog-38-cm-x-28-wall-clock/p/itm13491158d6cd5?pid=WCKFYHWY2CVYB5ZG&lid=LSTWCKFYHWY2CVYB5ZGQEVPNU&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_bb4769a5-e028-47d2-9cf0-113c92f3a543_2_KRLTMJ8QXFB1_MC.WCKFYHWY2CVYB5ZG&ppt=None&ppn=None&ssid=ee7m0zavm80000001752155510803&otracker=clp_pmu_v2_Wall%2BClock_3_2.productCard.PMU_V2_GOT%2BDreams%2BAnalog%2B38%2Bcm%2BX%2B28%2Bcm%2BWall%2BClock_offers-store_WCKFYHWY2CVYB5ZG_neo%2Fmerchandising_2&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_3_NA_view-all&cid=WCKFYHWY2CVYB5ZG: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 19:24:04,697 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:24:05,700 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:24:05,701 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:24:06,955 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:24:06,995 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:24:31,957 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/ajanta-analog-20-5-cm-x-wall-clock/p/itmejmvmh5ztmzha?pid=WCKEJMVMQNNVGFZT&lid=LSTWCKEJMVMQNNVGFZT3VCDKO&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_bb4769a5-e028-47d2-9cf0-113c92f3a543_2_KRLTMJ8QXFB1_MC.WCKEJMVMQNNVGFZT&ppt=None&ppn=None&ssid=ee7m0zavm80000001752155510803&otracker=clp_pmu_v2_Wall%2BClock_4_2.productCard.PMU_V2_AJANTA%2BAnalog%2B20.5%2Bcm%2BX%2B20.5%2Bcm%2BWall%2BClock_offers-store_WCKEJMVMQNNVGFZT_neo%2Fmerchandising_3&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_4_NA_view-all&cid=WCKEJMVMQNNVGFZT: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 19:24:31,958 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:24:32,964 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:24:32,964 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:24:34,570 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:24:34,619 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:24:57,091 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/divinecrafts-analog-32-5-cm-x-wall-clock/p/itmf2y27hrggsxkk?pid=WCKF2YYBRA2ZUWMG&lid=LSTWCKF2YYBRA2ZUWMGWYG43C&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_bb4769a5-e028-47d2-9cf0-113c92f3a543_2_KRLTMJ8QXFB1_MC.WCKF2YYBRA2ZUWMG&ppt=None&ppn=None&ssid=ee7m0zavm80000001752155510803&otracker=clp_pmu_v2_Wall%2BClock_5_2.productCard.PMU_V2_DivineCrafts%2BAnalog%2B32.5%2Bcm%2BX%2B32.5%2Bcm%2BWall%2BClock_offers-store_WCKF2YYBRA2ZUWMG_neo%2Fmerchandising_4&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_5_NA_view-all&cid=WCKF2YYBRA2ZUWMG: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 19:24:57,092 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:24:58,095 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:24:58,096 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:24:59,939 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:24:59,984 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:25:22,324 - INFO - 🛑 Application stopped by user
+2025-07-10 19:25:22,324 - INFO - 🏁 Application shutdown complete
+2025-07-10 19:40:44,064 - INFO - 🚀 Starting application main loop
+2025-07-10 19:40:44,065 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-10 19:40:44,069 - INFO - 💾 Database initialized
+2025-07-10 19:40:46,055 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-10 19:41:23,118 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-10 19:41:23,118 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-10 19:41:23,119 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-10 19:41:23,119 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-10 19:41:23,120 - INFO - 🌐 Starting website deal monitoring...
+2025-07-10 19:41:23,121 - INFO - 🔄 Checking websites for new deals...
+2025-07-10 19:41:23,121 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 19:41:23,122 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 19:41:23,390 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-10 19:41:23,392 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1447
+2025-07-10 19:41:23,795 - INFO - 📥 Found 1 new messages to process
+2025-07-10 19:41:23,796 - INFO - 📥 Processing new message ID: 1448
+2025-07-10 19:41:23,797 - INFO - ⏭️ No product URL found in message 1448, skipping
+2025-07-10 19:41:24,311 - INFO - ✅ Completed sync for @LootWaliShopping2_0 (processed 0 messages)
+2025-07-10 19:41:24,311 - INFO - 📡 Setting up monitoring for @dealskabaapp
+2025-07-10 19:41:24,801 - INFO - 🔓 Access confirmed: 🔥🔥 Deals Ka Baap (LOOT DEALS ONLY) (ID: -1001228910825)
+2025-07-10 19:41:24,802 - INFO - 🔄 Syncing new messages for @dealskabaapp since message ID: 6276
+2025-07-10 19:41:27,521 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 19:41:28,323 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store
+2025-07-10 19:41:28,346 - INFO - ✅ No new messages found for @dealskabaapp
+2025-07-10 19:41:28,347 - INFO - 📡 Setting up monitoring for @dealsdroppers
+2025-07-10 19:41:28,918 - INFO - 🔓 Access confirmed: Deals Dropers (ID: -1002349575648)
+2025-07-10 19:41:28,919 - INFO - 🔄 Syncing new messages for @dealsdroppers since message ID: 7657
+2025-07-10 19:41:29,085 - INFO - ✅ No new messages found for @dealsdroppers
+2025-07-10 19:41:29,086 - INFO - ✅ Initial sync completed for all channels
+2025-07-10 19:41:29,087 - INFO - 🚀 Real-time monitoring activated - waiting for new messages...
+2025-07-10 19:41:31,688 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 19:41:33,040 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 19:41:35,890 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 19:41:35,943 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,954 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,957 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,961 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,974 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,978 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,981 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,986 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:35,989 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:36,002 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:36,003 - INFO - ✅ Scraped 10 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 19:41:37,636 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 19:41:41,144 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 19:41:41,148 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 19:41:41,149 - INFO - ✅ Total unique Amazon deals: 9
+2025-07-10 19:41:44,665 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 19:41:44,665 - INFO - ✅ Total unique Flipkart deals: 0
+2025-07-10 19:41:44,668 - INFO - 📊 Total website deals found: 9
+2025-07-10 19:41:44,669 - INFO - 📊 Total unique website deals: 9
+2025-07-10 19:41:44,698 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:44,699 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:41:44,701 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:41:45,877 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:41:45,898 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:41:50,901 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:50,902 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:41:50,903 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:41:52,680 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:41:52,699 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:41:57,701 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:41:57,702 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:41:57,703 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:41:58,995 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:41:59,021 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:04,037 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:42:04,037 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:42:04,038 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:42:05,363 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:42:05,398 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:10,412 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:42:10,412 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:42:10,413 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:42:11,540 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:42:11,560 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:16,566 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:42:16,567 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:42:16,568 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:42:19,064 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:42:19,094 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:24,101 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:42:24,101 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:42:24,102 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:42:25,395 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:42:25,425 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:30,436 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:42:30,437 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:42:30,437 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:42:31,947 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:42:31,974 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:36,975 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:42:36,976 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:42:36,976 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:42:38,525 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:42:38,543 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:42:43,546 - INFO - 🎯 Website processing complete: 9 deals posted
+2025-07-10 19:42:43,547 - INFO - ⏰ Waiting 30 minutes before next website check...
+2025-07-10 19:43:35,418 - INFO - 🛑 Application stopped by user
+2025-07-10 19:43:35,419 - INFO - 🏁 Application shutdown complete
+2025-07-10 19:43:35,420 - INFO - ✅ Resources released
+2025-07-10 19:56:49,058 - INFO - 🚀 Ultimate Deal Auto-Poster starting up...
+2025-07-10 19:56:49,764 - INFO - 🔎 Monitoring 3 Telegram channels...
+2025-07-10 19:56:50,463 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 19:56:50,464 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 19:56:52,719 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store
+2025-07-10 19:56:54,236 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 19:56:55,181 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 19:56:55,182 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 19:56:56,515 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 19:56:57,493 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 19:57:00,107 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 19:57:00,112 - INFO - ✅ Scraped 1 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 19:57:00,240 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 19:57:00,241 - INFO - ✅ Total unique Flipkart deals: 7
+2025-07-10 19:57:03,679 - INFO - ✅ Found 16 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 19:57:03,717 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,726 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,729 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,736 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,738 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,740 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,743 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,747 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,755 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,761 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,761 - INFO - ✅ Scraped 10 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 19:57:03,762 - INFO - ✅ Total unique Amazon deals: 9
+2025-07-10 19:57:03,762 - INFO - 📊 Total website deals found: 16
+2025-07-10 19:57:03,763 - INFO - 📊 Total unique website deals: 16
+2025-07-10 19:57:03,799 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:03,800 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:03,800 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:04,847 - INFO - ✅ Telegram client started. Listening for new messages...
+2025-07-10 19:57:04,925 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:04,926 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:05,277 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:05,311 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:05,925 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A976419031&qid=1752157621&rnid=1389402031&ref=sr_nr_n_0&tag=1234560e6f5-21
+2025-07-10 19:57:05,929 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A976419031&qid=1752157621&rnid=1389402031&ref=sr_nr_n_0&tag=1234560e6f5-21
+2025-07-10 19:57:06,007 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:06,046 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:10,318 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:10,319 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:10,319 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:10,726 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:10,727 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:11,040 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:11,068 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:11,563 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:11,605 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:11,610 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_85%3A10440599031&qid=1752157621&rnid=10440598031&ref=sr_nr_p_85_1&tag=1234560e6f5-21
+2025-07-10 19:57:11,612 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_85%3A10440599031&qid=1752157621&rnid=10440598031&ref=sr_nr_p_85_1&tag=1234560e6f5-21
+2025-07-10 19:57:16,073 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:16,073 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:16,074 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:16,477 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:16,478 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:16,878 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:16,915 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:17,339 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_123%3A214020&qid=1752157621&rnid=91049095031&ref=sr_nr_p_123_0&tag=1234560e6f5-21
+2025-07-10 19:57:17,341 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_123%3A214020&qid=1752157621&rnid=91049095031&ref=sr_nr_p_123_0&tag=1234560e6f5-21
+2025-07-10 19:57:17,438 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:17,485 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:21,926 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:21,928 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:21,930 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:22,400 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:22,401 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:22,716 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:22,751 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:23,242 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:23,288 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:23,294 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_72%3A1318476031&qid=1752157621&rnid=1318475031&ref=sr_nr_p_72_0&tag=1234560e6f5-21
+2025-07-10 19:57:23,296 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_72%3A1318476031&qid=1752157621&rnid=1318475031&ref=sr_nr_p_72_0&tag=1234560e6f5-21
+2025-07-10 19:57:27,767 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:27,768 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:27,768 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:28,164 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:28,165 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:28,479 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:28,516 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:28,885 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_condition-type%3A8609960031&qid=1752157621&rnid=8609959031&ref=sr_nr_p_n_condition-type_0&tag=1234560e6f5-21
+2025-07-10 19:57:28,887 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_condition-type%3A8609960031&qid=1752157621&rnid=8609959031&ref=sr_nr_p_n_condition-type_0&tag=1234560e6f5-21
+2025-07-10 19:57:28,984 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:29,030 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:33,520 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:33,521 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:33,522 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:34,410 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:34,411 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:34,551 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:34,599 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:34,945 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_36%3A1318503031&qid=1752157621&rnid=1318502031&ref=sr_nr_p_36_0&tag=1234560e6f5-21
+2025-07-10 19:57:34,946 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_36%3A1318503031&qid=1752157621&rnid=1318502031&ref=sr_nr_p_36_0&tag=1234560e6f5-21
+2025-07-10 19:57:35,041 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:35,086 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:39,602 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:39,603 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:39,603 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:40,158 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:40,159 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:40,375 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:40,420 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:40,788 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_deal_type%3A26921226031&qid=1752157621&rnid=26921223031&ref=sr_nr_p_n_deal_type_0&tag=1234560e6f5-21
+2025-07-10 19:57:40,790 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_deal_type%3A26921226031&qid=1752157621&rnid=26921223031&ref=sr_nr_p_n_deal_type_0&tag=1234560e6f5-21
+2025-07-10 19:57:41,125 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:41,164 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:45,422 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:45,423 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:45,423 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:45,759 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:45,760 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:46,071 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:46,111 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:46,705 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_6%3AA1WYWER0W24N8S&qid=1752157621&rnid=1318474031&ref=sr_nr_p_6_0&tag=1234560e6f5-21
+2025-07-10 19:57:46,707 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_6%3AA1WYWER0W24N8S&qid=1752157621&rnid=1318474031&ref=sr_nr_p_6_0&tag=1234560e6f5-21
+2025-07-10 19:57:46,799 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:46,844 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:57:51,119 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:51,120 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:57:51,121 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:57:51,587 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 19:57:51,588 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:57:51,836 - INFO - ✅ Deal sent as text successfully
+2025-07-10 19:57:51,870 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 19:57:52,256 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_format_browse-bin%3A30678585031&qid=1752157621&rnid=30678575031&ref=sr_nr_p_n_format_browse-bin_0&tag=1234560e6f5-21
+2025-07-10 19:57:52,257 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_format_browse-bin%3A30678585031&qid=1752157621&rnid=30678575031&ref=sr_nr_p_n_format_browse-bin_0&tag=1234560e6f5-21
+2025-07-10 19:57:52,356 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 19:57:52,395 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 19:58:20,179 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b?pid=WLPG5HCURMH39A3F&lid=LSTWLPG5HCURMH39A3FS7WXMW&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_1_2.productCard.PMU_V2_SV%2Bcollections%2BDecorative%2BBrown%2BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_1_NA_view-all&cid=WLPG5HCURMH39A3F: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 19:58:20,179 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:58:21,181 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:58:21,182 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:58:37,146 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b?pid=WLPG5HCURMH39A3F&lid=LSTWLPG5HCURMH39A3FS7WXMW&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_1_2.productCard.PMU_V2_SV%2Bcollections%2BDecorative%2BBrown%2BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_1_NA_view-all&cid=WLPG5HCURMH39A3F: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b%3Fpid%3DWLPG5HCURMH39A3F%26lid%3DLSTWLPG5HCURMH39A3FS7WXMW%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_1_2.productCard.PMU_V2_SV%252Bcollections%252BDecorative%252BBrown%252BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%252Fmerchandising_0%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_1_NA_view-all%26cid%3DWLPG5HCURMH39A3F (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECB16A5D0>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 19:58:37,147 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:58:37,149 - ERROR - ❌ Failed to send deal: Timed out
+2025-07-10 19:58:37,149 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 19:58:38,148 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:58:54,129 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b?pid=WLPG5HCURMH39A3F&lid=LSTWLPG5HCURMH39A3FS7WXMW&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_1_2.productCard.PMU_V2_SV%2Bcollections%2BDecorative%2BBrown%2BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_1_NA_view-all&cid=WLPG5HCURMH39A3F: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b%3Fpid%3DWLPG5HCURMH39A3F%26lid%3DLSTWLPG5HCURMH39A3FS7WXMW%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_1_2.productCard.PMU_V2_SV%252Bcollections%252BDecorative%252BBrown%252BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%252Fmerchandising_0%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_1_NA_view-all%26cid%3DWLPG5HCURMH39A3F (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECB16BB10>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 19:58:54,129 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:59:09,147 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/flipkart-smartbuy-decorative-multicolor-wallpaper/p/itm7f2f677221616?pid=WLPGKRVZTPZKCQBY&lid=LSTWLPGKRVZTPZKCQBYK1G9B4&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPGKRVZTPZKCQBY&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_2_2.productCard.PMU_V2_Flipkart%2BSmartBuy%2BDecorative%2BMulticolor%2BWallpaper_offers-store_WLPGKRVZTPZKCQBY_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_2_NA_view-all&cid=WLPGKRVZTPZKCQBY: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/flipkart-smartbuy-decorative-multicolor-wallpaper/p/itm7f2f677221616%3Fpid%3DWLPGKRVZTPZKCQBY%26lid%3DLSTWLPGKRVZTPZKCQBYK1G9B4%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPGKRVZTPZKCQBY%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_2_2.productCard.PMU_V2_Flipkart%252BSmartBuy%252BDecorative%252BMulticolor%252BWallpaper_offers-store_WLPGKRVZTPZKCQBY_neo%252Fmerchandising_1%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_2_NA_view-all%26cid%3DWLPGKRVZTPZKCQBY (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECC3F0050>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 19:59:09,148 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:59:09,149 - ERROR - ❌ Failed to send Telegram deal: Timed out
+2025-07-10 19:59:09,150 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 19:59:09,150 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:59:24,928 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b?pid=WLPG5HCURMH39A3F&lid=LSTWLPG5HCURMH39A3FS7WXMW&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_1_2.productCard.PMU_V2_SV%2Bcollections%2BDecorative%2BBrown%2BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_1_NA_view-all&cid=WLPG5HCURMH39A3F: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/sv-collections-decorative-brown-wallpaper/p/itme13b72ea0435b%3Fpid%3DWLPG5HCURMH39A3F%26lid%3DLSTWLPG5HCURMH39A3FS7WXMW%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPG5HCURMH39A3F%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_1_2.productCard.PMU_V2_SV%252Bcollections%252BDecorative%252BBrown%252BWallpaper_offers-store_WLPG5HCURMH39A3F_neo%252Fmerchandising_0%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_1_NA_view-all%26cid%3DWLPG5HCURMH39A3F (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECC3F0CD0>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 19:59:24,929 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:59:24,930 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 19:59:24,931 - INFO - 📝 Sending deal as text-only
+2025-07-10 19:59:24,932 - ERROR - ❌ Failed to send Telegram deal: Timed out
+2025-07-10 19:59:24,933 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 19:59:40,789 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/flipkart-smartbuy-decorative-multicolor-wallpaper/p/itm7f2f677221616?pid=WLPGKRVZTPZKCQBY&lid=LSTWLPGKRVZTPZKCQBYK1G9B4&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPGKRVZTPZKCQBY&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_2_2.productCard.PMU_V2_Flipkart%2BSmartBuy%2BDecorative%2BMulticolor%2BWallpaper_offers-store_WLPGKRVZTPZKCQBY_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_2_NA_view-all&cid=WLPGKRVZTPZKCQBY: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/flipkart-smartbuy-decorative-multicolor-wallpaper/p/itm7f2f677221616%3Fpid%3DWLPGKRVZTPZKCQBY%26lid%3DLSTWLPGKRVZTPZKCQBYK1G9B4%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.WLPGKRVZTPZKCQBY%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_2_2.productCard.PMU_V2_Flipkart%252BSmartBuy%252BDecorative%252BMulticolor%252BWallpaper_offers-store_WLPGKRVZTPZKCQBY_neo%252Fmerchandising_1%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_2_NA_view-all%26cid%3DWLPGKRVZTPZKCQBY (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECC3F1950>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 19:59:40,790 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 19:59:40,792 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:59:43,214 - INFO - ✅ URL shortened successfully: https://gplinks.co/Mjj3A...
+2025-07-10 19:59:43,215 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:59:43,217 - ERROR - ❌ Failed to send deal: Timed out
+2025-07-10 19:59:43,218 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 19:59:43,219 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 19:59:43,220 - ERROR - ❌ Failed to send Telegram deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 19:59:43,221 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 19:59:44,225 - ERROR - ❌ Failed to send Telegram deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 19:59:44,225 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 19:59:44,226 - ERROR - ❌ Failed to send Telegram deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 19:59:44,226 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 20:00:03,229 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/decor-villa-25-cm-heart-design-switch-board-removable-sticker/p/itme720d4a513b8c?pid=STIFPMK9NAUDYH2Z&lid=LSTSTIFPMK9NAUDYH2ZXSC2TF&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.STIFPMK9NAUDYH2Z&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_3_2.productCard.PMU_V2_Decor%2BVilla%2B25%2Bcm%2BHEART%2BDESIGN%2BSwitch%2BBoard%2BRemovable%2BSticker_offers-store_STIFPMK9NAUDYH2Z_neo%2Fmerchandising_2&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_3_NA_view-all&cid=STIFPMK9NAUDYH2Z: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:00:03,230 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:00:08,565 - INFO - ✅ URL shortened successfully: https://gplinks.co/Mjj3A...
+2025-07-10 20:00:08,566 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:00:08,569 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:00:08,569 - INFO - 📝 Sending deal as text-only
+2025-07-10 20:00:09,569 - ERROR - ❌ Failed to send Telegram deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:00:09,579 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 20:00:09,580 - ERROR - ❌ Failed to send deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:00:09,580 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 20:00:14,940 - INFO - ✅ URL shortened successfully: https://gplinks.co/Mjj3A...
+2025-07-10 20:00:14,941 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:00:29,960 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/god-god-s-66-cm-adiyogi-745-self-adhesive-sticker/p/itm46420182c063d?pid=STIFST4YFVXVKMYS&lid=LSTSTIFST4YFVXVKMYSKJRD2T&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.STIFST4YFVXVKMYS&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_4_2.productCard.PMU_V2_god%2B%2526%2Bgod%2527s%2B66%2Bcm%2BAdiyogi-%2B745%2BSelf%2BAdhesive%2BSticker_offers-store_STIFST4YFVXVKMYS_neo%2Fmerchandising_3&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_4_NA_view-all&cid=STIFST4YFVXVKMYS: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:00:29,961 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:00:29,961 - ERROR - ❌ Failed to send Telegram deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:00:29,961 - ERROR - ❌ Failed to send Telegram deal to channel
+2025-07-10 20:00:30,972 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:00:30,973 - INFO - 📝 Sending deal as text-only
+2025-07-10 20:00:31,983 - ERROR - ❌ Failed to send deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:00:31,983 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 20:00:52,025 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/global-graphics-96-cm-duck-wallpaper-poster-two-white-ducks-wall-poster-multicolor-size-47x96cm-self-adhesive-sticker/p/itmc99b3dc1d85d6?pid=STIFUSPD84PNF2XQ&lid=LSTSTIFUSPD84PNF2XQGIAKL5&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.STIFUSPD84PNF2XQ&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_5_2.productCard.PMU_V2_GLOBAL%2BGRAPHICS%2B96%2Bcm%2BDuck%2BWallpaper%252Fposter%2BTwo%2BWhite%2BDucks%2BWall%2BPoster%2B%2528multicolor%252Csize%2B47x96cm%2529%2BSelf%2BAdhesive%2BSticker_offers-store_STIFUSPD84PNF2XQ_neo%2Fmerchandising_4&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_5_NA_view-all&cid=STIFUSPD84PNF2XQ: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/global-graphics-96-cm-duck-wallpaper-poster-two-white-ducks-wall-poster-multicolor-size-47x96cm-self-adhesive-sticker/p/itmc99b3dc1d85d6%3Fpid%3DSTIFUSPD84PNF2XQ%26lid%3DLSTSTIFUSPD84PNF2XQGIAKL5%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.STIFUSPD84PNF2XQ%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_5_2.productCard.PMU_V2_GLOBAL%252BGRAPHICS%252B96%252Bcm%252BDuck%252BWallpaper%25252Fposter%252BTwo%252BWhite%252BDucks%252BWall%252BPoster%252B%252528multicolor%25252Csize%252B47x96cm%252529%252BSelf%252BAdhesive%252BSticker_offers-store_STIFUSPD84PNF2XQ_neo%252Fmerchandising_4%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_5_NA_view-all%26cid%3DSTIFUSPD84PNF2XQ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECB16BED0>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 20:00:52,026 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:00:53,042 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:00:53,043 - INFO - 📝 Sending deal as text-only
+2025-07-10 20:00:54,057 - ERROR - ❌ Failed to send deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:00:54,058 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 20:01:14,089 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/hetshree-decore-50-cm-floral-girls-wall-sticker-decal-removable/p/itme9aea7623163d?pid=STIHYZ2ZHZ2ABMZG&lid=LSTSTIHYZ2ZHZ2ABMZGKXET4X&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.STIHYZ2ZHZ2ABMZG&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Sticker%2B%2526%2BWallpapers_6_2.productCard.PMU_V2_Hetshree%2Bdecore%2B50%2Bcm%2BFloral%2BGirls%2BWall%2BSticker%2B%2526%2BDecal%2BRemovable%2BSticker_offers-store_STIHYZ2ZHZ2ABMZG_neo%2Fmerchandising_5&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Sticker%2B%2526%2BWallpapers_LIST_productCard_cc_6_NA_view-all&cid=STIHYZ2ZHZ2ABMZG: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/hetshree-decore-50-cm-floral-girls-wall-sticker-decal-removable/p/itme9aea7623163d%3Fpid%3DSTIHYZ2ZHZ2ABMZG%26lid%3DLSTSTIHYZ2ZHZ2ABMZGKXET4X%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_c33975a6-c3e6-4355-9385-111df8fce97a_2_5OSHR1ZIHDBH_MC.STIHYZ2ZHZ2ABMZG%26ppt%3DNone%26ppn%3DNone%26ssid%3Dt5wtdmq91c0000001752157613426%26otracker%3Dclp_pmu_v2_Sticker%252B%252526%252BWallpapers_6_2.productCard.PMU_V2_Hetshree%252Bdecore%252B50%252Bcm%252BFloral%252BGirls%252BWall%252BSticker%252B%252526%252BDecal%252BRemovable%252BSticker_offers-store_STIHYZ2ZHZ2ABMZG_neo%252Fmerchandising_5%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Sticker%252B%252526%252BWallpapers_LIST_productCard_cc_6_NA_view-all%26cid%3DSTIHYZ2ZHZ2ABMZG (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015ECB16B110>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 20:01:14,091 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:01:15,100 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:01:15,101 - INFO - 📝 Sending deal as text-only
+2025-07-10 20:01:16,107 - ERROR - ❌ Failed to send deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:01:16,109 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 20:01:40,307 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/flipkart-perfect-homes-julian-engineered-wood-4-door-wardrobe/p/itm4931bdb229197?pid=WCLFUKGZFPFDJVDF&lid=LSTWCLFUKGZFPFDJVDFBF3VMJ&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_c33975a6-c3e6-4355-9385-111df8fce97a_3_UW559X3BVHGZ_MC.WCLFUKGZFPFDJVDF&ppt=None&ppn=None&ssid=t5wtdmq91c0000001752157613426&otracker=clp_pmu_v2_Wardrobe_1_3.productCard.PMU_V2_Flipkart%2BPerfect%2BHomes%2BJulian%2BEngineered%2BWood%2B4%2BDoor%2BWardrobe_offers-store_WCLFUKGZFPFDJVDF_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wardrobe_LIST_productCard_cc_1_NA_view-all&cid=WCLFUKGZFPFDJVDF: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:01:40,307 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:01:41,316 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:01:41,318 - INFO - 📝 Sending deal as text-only
+2025-07-10 20:01:42,333 - ERROR - ❌ Failed to send deal: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-07-10 20:01:42,335 - ERROR - ❌ Failed to send website deal to channel
+2025-07-10 20:01:47,341 - INFO - 🎯 Website processing complete: 9 deals posted
+2025-07-10 20:07:43,670 - INFO - 🚀 Ultimate Deal Auto-Poster starting up...
+2025-07-10 20:07:44,396 - INFO - 🔎 Monitoring 3 Telegram channels...
+2025-07-10 20:07:45,095 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 20:07:45,095 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 20:07:49,173 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 20:07:49,990 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store
+2025-07-10 20:07:51,892 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 20:07:52,371 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 20:07:55,947 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 20:07:55,953 - INFO - ✅ Scraped 1 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 20:07:57,163 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 20:07:57,163 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 20:08:00,305 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 20:08:00,308 - INFO - ✅ Scraped 1 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 20:08:00,309 - INFO - ✅ Total unique Amazon deals: 0
+2025-07-10 20:08:01,068 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 20:08:01,069 - INFO - ✅ Total unique Flipkart deals: 7
+2025-07-10 20:08:01,069 - INFO - 📊 Total website deals found: 7
+2025-07-10 20:08:01,070 - INFO - 📊 Total unique website deals: 7
+2025-07-10 20:08:01,071 - INFO - 📊 Website deals after offer filter: 7
+2025-07-10 20:08:18,376 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/united-cogs-analog-30-cm-x-wall-clock/p/itmfc2aseejwbkdz?pid=WCKFCFRFRXVG64WS&lid=LSTWCKFCFRFRXVG64WSZRYYUU&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKFCFRFRXVG64WS&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_1_2.productCard.PMU_V2_United%2Bcogs%2BAnalog%2B30%2Bcm%2BX%2B30%2Bcm%2BWall%2BClock_offers-store_WCKFCFRFRXVG64WS_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_1_NA_view-all&cid=WCKFCFRFRXVG64WS: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:08:18,378 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:08:24,127 - INFO - ✅ URL shortened successfully: https://gplinks.co/IxL3vQS...
+2025-07-10 20:08:24,129 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:08:24,130 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:08:26,396 - INFO - ✅ Deal sent with favicon fallback image
+2025-07-10 20:08:26,498 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:08:46,522 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/divinecrafts-analog-32-5-cm-x-wall-clock/p/itmf2y27hrggsxkk?pid=WCKF2YYBRA2ZUWMG&lid=LSTWCKF2YYBRA2ZUWMGWYG43C&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKF2YYBRA2ZUWMG&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_2_2.productCard.PMU_V2_DivineCrafts%2BAnalog%2B32.5%2Bcm%2BX%2B32.5%2Bcm%2BWall%2BClock_offers-store_WCKF2YYBRA2ZUWMG_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_2_NA_view-all&cid=WCKF2YYBRA2ZUWMG: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:08:46,523 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:08:47,280 - INFO - ✅ Telegram client started. Listening for new messages...
+2025-07-10 20:08:51,864 - INFO - ✅ URL shortened successfully: https://gplinks.co/txQMBmE...
+2025-07-10 20:08:51,865 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:08:51,865 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:08:52,493 - ERROR - Favicon fallback failed: 404 Client Error: Not Found for url: https://www.flipkart.com/favicon.ico
+2025-07-10 20:08:52,493 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:08:53,324 - INFO - No Amazon/Flipkart URLs found in message 449
+2025-07-10 20:08:53,406 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:08:53,454 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:09:13,465 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/matiz-analog-20-cm-x-wall-clock/p/itm1eb1210ba73bd?pid=WCKGMXHWGYWVBZK7&lid=LSTWCKGMXHWGYWVBZK7M4EB5E&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKGMXHWGYWVBZK7&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_3_2.productCard.PMU_V2_matiz%2BAnalog%2B20%2Bcm%2BX%2B20%2Bcm%2BWall%2BClock_offers-store_WCKGMXHWGYWVBZK7_neo%2Fmerchandising_2&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_3_NA_view-all&cid=WCKGMXHWGYWVBZK7: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:09:13,466 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:09:29,494 - ERROR - ❌ GPLinks API error (attempt 2) for https://www.flipkart.com/matiz-analog-20-cm-x-wall-clock/p/itm1eb1210ba73bd?pid=WCKGMXHWGYWVBZK7&lid=LSTWCKGMXHWGYWVBZK7M4EB5E&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKGMXHWGYWVBZK7&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_3_2.productCard.PMU_V2_matiz%2BAnalog%2B20%2Bcm%2BX%2B20%2Bcm%2BWall%2BClock_offers-store_WCKGMXHWGYWVBZK7_neo%2Fmerchandising_2&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_3_NA_view-all&cid=WCKGMXHWGYWVBZK7: HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//www.flipkart.com/matiz-analog-20-cm-x-wall-clock/p/itm1eb1210ba73bd%3Fpid%3DWCKGMXHWGYWVBZK7%26lid%3DLSTWCKGMXHWGYWVBZK7M4EB5E%26marketplace%3DFLIPKART%26fm%3Dneo%252Fmerchandising%26iid%3DM_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKGMXHWGYWVBZK7%26ppt%3DNone%26ppn%3DNone%26ssid%3Dawlqdmi18g0000001752158275160%26otracker%3Dclp_pmu_v2_Wall%252BClock_3_2.productCard.PMU_V2_matiz%252BAnalog%252B20%252Bcm%252BX%252B20%252Bcm%252BWall%252BClock_offers-store_WCKGMXHWGYWVBZK7_neo%252Fmerchandising_2%26otracker1%3Dclp_pmu_v2_PINNED_neo%252Fmerchandising_Wall%252BClock_LIST_productCard_cc_3_NA_view-all%26cid%3DWCKGMXHWGYWVBZK7 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001A8A8703ED0>, 'Connection to api.gplinks.com timed out. (connect timeout=15)'))
+2025-07-10 20:09:29,496 - INFO - 🔁 Retrying GPLinks in 2s...
+2025-07-10 20:09:40,176 - INFO - ✅ URL shortened successfully: https://gplinks.co/sPMA...
+2025-07-10 20:09:40,177 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:09:40,178 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:09:42,061 - INFO - ✅ Deal sent with favicon fallback image
+2025-07-10 20:09:42,113 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:10:02,139 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/a-a-plaza-pendulum-wall-clock-analog-36-cm-x-32/p/itm4f8b49487dbb9?pid=WCKEC9HY5EUS4BZW&lid=LSTWCKEC9HY5EUS4BZWSIE3PQ&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKEC9HY5EUS4BZW&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_4_2.productCard.PMU_V2_A%2526A%2BPlaza%2BPendulum%2BWall%2BClock%2BAnalog%2B36%2Bcm%2BX%2B32%2Bcm%2BWall%2BClock_offers-store_WCKEC9HY5EUS4BZW_neo%2Fmerchandising_3&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_4_NA_view-all&cid=WCKEC9HY5EUS4BZW: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:10:02,140 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:10:07,464 - INFO - ✅ URL shortened successfully: https://gplinks.co/kNiy...
+2025-07-10 20:10:07,464 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:10:07,465 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:10:09,390 - INFO - ✅ Deal sent with favicon fallback image
+2025-07-10 20:10:09,444 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:10:29,462 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/zintex-decor-your-dream-analog-52-cm-x-wall-clock/p/itmd8a1570807a29?pid=WCKH8DYKDUJJF2GT&lid=LSTWCKH8DYKDUJJF2GTWBHWKS&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKH8DYKDUJJF2GT&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_5_2.productCard.PMU_V2_Zintex-Decor%2BYour%2BDream%2BAnalog%2B52%2Bcm%2BX%2B52%2Bcm%2BWall%2BClock_offers-store_WCKH8DYKDUJJF2GT_neo%2Fmerchandising_4&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_5_NA_view-all&cid=WCKH8DYKDUJJF2GT: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:10:29,462 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:10:34,823 - INFO - ✅ URL shortened successfully: https://gplinks.co/uyNpo...
+2025-07-10 20:10:34,824 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:10:34,824 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:10:36,597 - INFO - ✅ Deal sent with favicon fallback image
+2025-07-10 20:10:36,661 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:10:56,677 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/got-dreams-analog-38-cm-x-28-wall-clock/p/itm13491158d6cd5?pid=WCKFYHWY2CVYB5ZG&lid=LSTWCKFYHWY2CVYB5ZGQEVPNU&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_2_KRLTMJ8QXFB1_MC.WCKFYHWY2CVYB5ZG&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wall%2BClock_6_2.productCard.PMU_V2_GOT%2BDreams%2BAnalog%2B38%2Bcm%2BX%2B28%2Bcm%2BWall%2BClock_offers-store_WCKFYHWY2CVYB5ZG_neo%2Fmerchandising_5&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wall%2BClock_LIST_productCard_cc_6_NA_view-all&cid=WCKFYHWY2CVYB5ZG: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:10:56,678 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:11:02,060 - INFO - ✅ URL shortened successfully: https://gplinks.co/lLD2...
+2025-07-10 20:11:02,061 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:11:02,061 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:11:02,578 - ERROR - Favicon fallback failed: 404 Client Error: Not Found for url: https://www.flipkart.com/favicon.ico
+2025-07-10 20:11:02,579 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:11:03,525 - INFO - No Amazon/Flipkart URLs found in message 453
+2025-07-10 20:11:03,648 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:11:03,689 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:11:23,714 - ERROR - ❌ GPLinks API error (attempt 1) for https://www.flipkart.com/flipkart-perfect-homes-julian-engineered-wood-4-door-wardrobe/p/itm4931bdb229197?pid=WCLFUKGZFPFDJVDF&lid=LSTWCLFUKGZFPFDJVDFBF3VMJ&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_a459f606-c531-4a2d-89cc-06a73acae586_3_UW559X3BVHGZ_MC.WCLFUKGZFPFDJVDF&ppt=None&ppn=None&ssid=awlqdmi18g0000001752158275160&otracker=clp_pmu_v2_Wardrobe_1_3.productCard.PMU_V2_Flipkart%2BPerfect%2BHomes%2BJulian%2BEngineered%2BWood%2B4%2BDoor%2BWardrobe_offers-store_WCLFUKGZFPFDJVDF_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Wardrobe_LIST_productCard_cc_1_NA_view-all&cid=WCLFUKGZFPFDJVDF: HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-10 20:11:23,715 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 20:11:29,097 - INFO - ✅ URL shortened successfully: https://gplinks.co/wb3KE2r...
+2025-07-10 20:11:29,098 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:11:29,098 - INFO - 🔄 Trying favicon fallback: https://www.flipkart.com/favicon.ico
+2025-07-10 20:11:30,674 - INFO - ✅ Deal sent with favicon fallback image
+2025-07-10 20:11:30,714 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:11:35,720 - INFO - 🎯 Website processing complete: 7 deals posted
+2025-07-10 20:21:35,729 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 20:21:35,731 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 20:21:39,059 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 20:21:40,648 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store
+2025-07-10 20:21:41,726 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 20:21:43,221 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 20:21:45,535 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 20:21:45,592 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,603 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,605 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,607 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,618 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,622 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,626 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,633 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,638 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,650 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:45,651 - INFO - ✅ Scraped 10 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 20:21:46,624 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 20:21:46,624 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 20:21:48,880 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 20:21:48,935 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,947 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,950 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,952 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,965 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,967 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,971 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,977 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,979 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,997 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:48,998 - INFO - ✅ Scraped 10 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 20:21:48,999 - INFO - ✅ Total unique Amazon deals: 18
+2025-07-10 20:21:50,111 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 20:21:50,112 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 20:21:50,112 - INFO - ✅ Total unique Flipkart deals: 14
+2025-07-10 20:21:50,112 - INFO - 📊 Total website deals found: 32
+2025-07-10 20:21:50,113 - INFO - 📊 Total unique website deals: 32
+2025-07-10 20:21:50,113 - INFO - 📊 Website deals after offer filter: 32
+2025-07-10 20:21:50,169 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:50,170 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:21:50,170 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:21:52,543 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:21:52,545 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:21:52,880 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:52,881 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:21:53,007 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:21:53,053 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:21:53,414 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A976419031&qid=1752159102&rnid=1389402031&ref=sr_nr_n_0&tag=1234560e6f5-21
+2025-07-10 20:21:53,416 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A976419031&qid=1752159102&rnid=1389402031&ref=sr_nr_n_0&tag=1234560e6f5-21
+2025-07-10 20:21:53,512 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:21:53,559 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:21:58,060 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:21:58,061 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:21:58,061 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:00,416 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:00,418 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:01,341 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:01,342 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:22:01,499 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:01,543 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:01,874 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_85%3A10440599031&qid=1752159102&rnid=10440598031&ref=sr_nr_p_85_1&tag=1234560e6f5-21
+2025-07-10 20:22:01,877 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_85%3A10440599031&qid=1752159102&rnid=10440598031&ref=sr_nr_p_85_1&tag=1234560e6f5-21
+2025-07-10 20:22:01,977 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:22:02,026 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:22:06,557 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:06,558 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:22:06,558 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:10,535 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:10,536 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:11,595 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:11,634 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:11,640 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_90%3A6741118031&qid=1752159102&rnid=6741116031&ref=sr_nr_p_90_0&tag=1234560e6f5-21
+2025-07-10 20:22:16,645 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:16,645 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:22:16,646 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:19,053 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:19,055 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:19,399 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:19,401 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:22:19,836 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:19,903 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:20,271 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_123%3A214020&qid=1752159102&rnid=91049095031&ref=sr_nr_p_123_0&tag=1234560e6f5-21
+2025-07-10 20:22:20,279 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_123%3A214020&qid=1752159102&rnid=91049095031&ref=sr_nr_p_123_0&tag=1234560e6f5-21
+2025-07-10 20:22:20,375 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:22:20,429 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:22:24,908 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:24,910 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:22:24,916 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:27,261 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:27,263 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:27,612 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:27,616 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:22:27,721 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:27,765 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:28,134 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_72%3A1318476031&qid=1752159102&rnid=1318475031&ref=sr_nr_p_72_0&tag=1234560e6f5-21
+2025-07-10 20:22:28,136 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_72%3A1318476031&qid=1752159102&rnid=1318475031&ref=sr_nr_p_72_0&tag=1234560e6f5-21
+2025-07-10 20:22:28,229 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:22:28,260 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:22:32,770 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:32,772 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:22:32,773 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:34,988 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:34,989 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:35,365 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:35,369 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:22:35,614 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:35,658 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:35,977 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_condition-type%3A8609960031&qid=1752159102&rnid=8609959031&ref=sr_nr_p_n_condition-type_0&tag=1234560e6f5-21
+2025-07-10 20:22:35,983 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_condition-type%3A8609960031&qid=1752159102&rnid=8609959031&ref=sr_nr_p_n_condition-type_0&tag=1234560e6f5-21
+2025-07-10 20:22:36,086 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:22:36,144 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:22:40,673 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:40,674 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:22:40,675 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:44,195 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:44,198 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:44,536 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:44,538 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:22:44,983 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:45,030 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:45,368 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_36%3A1318503031&qid=1752159102&rnid=1318502031&ref=sr_nr_p_36_0&tag=1234560e6f5-21
+2025-07-10 20:22:45,374 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_36%3A1318503031&qid=1752159102&rnid=1318502031&ref=sr_nr_p_36_0&tag=1234560e6f5-21
+2025-07-10 20:22:45,463 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:22:45,513 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:22:50,034 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:50,036 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:22:50,037 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:22:55,387 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:22:55,388 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:22:55,913 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:22:55,915 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:22:56,183 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:22:56,225 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:22:56,601 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_deal_type%3A26921226031&qid=1752159102&rnid=26921223031&ref=sr_nr_p_n_deal_type_0&tag=1234560e6f5-21
+2025-07-10 20:22:56,604 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_n_deal_type%3A26921226031&qid=1752159102&rnid=26921223031&ref=sr_nr_p_n_deal_type_0&tag=1234560e6f5-21
+2025-07-10 20:22:56,685 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:22:56,735 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:23:01,233 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:01,235 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:23:01,241 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:23:03,442 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:23:03,443 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:23:03,768 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:03,769 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:23:04,038 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:23:04,088 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:23:04,448 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_6%3AA1WYWER0W24N8S&qid=1752159102&rnid=1318474031&ref=sr_nr_p_6_0&tag=1234560e6f5-21
+2025-07-10 20:23:04,450 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_6%3AA1WYWER0W24N8S&qid=1752159102&rnid=1318474031&ref=sr_nr_p_6_0&tag=1234560e6f5-21
+2025-07-10 20:23:04,545 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:23:04,592 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:23:09,097 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:09,098 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:23:09,098 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:23:11,644 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:23:11,645 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:23:11,955 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:11,956 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:23:12,223 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:23:12,265 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:23:12,692 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A976419031&qid=1752159106&rnid=1389402031&ref=sr_nr_n_0&tag=1234560e6f5-21
+2025-07-10 20:23:12,696 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A976419031&qid=1752159106&rnid=1389402031&ref=sr_nr_n_0&tag=1234560e6f5-21
+2025-07-10 20:23:12,707 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:23:12,749 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:23:17,280 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:17,282 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:23:17,283 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:23:19,395 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:23:19,398 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:23:19,739 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:19,739 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:23:19,843 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:23:19,889 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:23:20,373 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:23:20,411 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 20:23:20,430 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_85%3A10440599031&qid=1752159106&rnid=10440598031&ref=sr_nr_p_85_1&tag=1234560e6f5-21
+2025-07-10 20:23:20,433 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_85%3A10440599031&qid=1752159106&rnid=10440598031&ref=sr_nr_p_85_1&tag=1234560e6f5-21
+2025-07-10 20:23:24,898 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:24,898 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 20:23:24,899 - INFO - 🔄 Trying favicon fallback: https://www.amazon.in/favicon.ico
+2025-07-10 20:23:26,921 - ERROR - Favicon send failed, falling back to default: Image_process_failed
+2025-07-10 20:23:26,928 - WARNING - ⚠️ No valid image found, sending as text only.
+2025-07-10 20:23:27,291 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-10 20:23:27,292 - INFO - 📤 Sending Telegram deal to @@smartlootdeals0...
+2025-07-10 20:23:27,572 - INFO - ✅ Deal sent as text successfully (all image fallbacks failed)
+2025-07-10 20:23:27,724 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 20:23:28,065 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_90%3A6741118031&qid=1752159106&rnid=6741116031&ref=sr_nr_p_90_0&tag=1234560e6f5-21
+2025-07-10 20:23:28,067 - INFO - ♻️ Duplicate Telegram deal: https://www.amazon.in/s?rh=n%3A1389402031%2Cp_90%3A6741118031&qid=1752159106&rnid=6741116031&ref=sr_nr_p_90_0&tag=1234560e6f5-21
+2025-07-10 20:23:28,165 - INFO - ✅ Telegram deal sent as text successfully
+2025-07-10 20:23:28,207 - INFO - ✅ Telegram deal processed and posted successfully!
+2025-07-10 21:01:46,747 - INFO - 🚀 Starting application main loop
+2025-07-10 21:01:46,748 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-10 21:01:46,751 - INFO - 💾 Database initialized
+2025-07-10 21:01:48,515 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-10 21:02:41,144 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-10 21:02:41,144 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-10 21:02:41,145 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-10 21:02:41,146 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-10 21:02:41,147 - INFO - 🌐 Starting website deal monitoring...
+2025-07-10 21:02:41,147 - INFO - 🔄 Checking websites for new deals...
+2025-07-10 21:02:41,148 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 21:02:41,149 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 21:02:41,626 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-10 21:02:41,629 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1447
+2025-07-10 21:02:42,061 - INFO - 📥 Found 5 new messages to process
+2025-07-10 21:02:42,061 - INFO - 📥 Processing new message ID: 1448
+2025-07-10 21:02:42,063 - INFO - ⏭️ No product URL found in message 1448, skipping
+2025-07-10 21:02:44,521 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 21:02:44,522 - INFO - 📥 Processing new message ID: 1449
+2025-07-10 21:02:44,523 - INFO - ⏭️ No product URL found in message 1449, skipping
+2025-07-10 21:02:45,237 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store
+2025-07-10 21:02:45,238 - INFO - 📥 Processing new message ID: 1450
+2025-07-10 21:02:45,240 - INFO - ⏭️ No product URL found in message 1450, skipping
+2025-07-10 21:02:45,750 - INFO - 📥 Processing new message ID: 1451
+2025-07-10 21:02:45,752 - INFO - ⏭️ No product URL found in message 1451, skipping
+2025-07-10 21:02:46,265 - INFO - 📥 Processing new message ID: 1452
+2025-07-10 21:02:46,267 - INFO - ⏭️ No product URL found in message 1452, skipping
+2025-07-10 21:02:48,809 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 21:02:50,864 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 21:02:50,864 - INFO - ✅ Scraped 5 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 21:02:50,865 - INFO - ✅ Completed sync for @LootWaliShopping2_0 (processed 0 messages)
+2025-07-10 21:02:50,865 - INFO - 📡 Setting up monitoring for @dealskabaapp
+2025-07-10 21:02:53,716 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 21:02:53,790 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 21:02:54,526 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 21:02:55,658 - INFO - 🔓 Access confirmed: 🔥🔥 Deals Ka Baap (LOOT DEALS ONLY) (ID: -1001228910825)
+2025-07-10 21:02:55,660 - INFO - 🔄 Syncing new messages for @dealskabaapp since message ID: 6276
+2025-07-10 21:02:59,535 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 21:02:59,538 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 21:02:59,539 - INFO - ✅ Total unique Amazon deals: 0
+2025-07-10 21:03:00,345 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 21:03:00,346 - INFO - ✅ Total unique Flipkart deals: 5
+2025-07-10 21:03:00,349 - INFO - 📊 Total website deals found: 5
+2025-07-10 21:03:00,349 - INFO - 📊 Total unique website deals: 5
+2025-07-10 21:03:05,297 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:03:05,298 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:03:05,313 - INFO - 📥 Found 1 new messages to process
+2025-07-10 21:03:05,313 - INFO - 📥 Processing new message ID: 6277
+2025-07-10 21:03:05,315 - INFO - 🔍 Processing message 6277 from 🔥🔥 Deals Ka Baap (LOOT DEALS ONLY)
+2025-07-10 21:03:05,319 - INFO - 🔗 Shortening URL: https://fkrt.cc/g9bvgRY
+2025-07-10 21:03:06,162 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:03:07,434 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:03:07,464 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:03:09,635 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g9bvgRY
+2025-07-10 21:03:37,513 - ERROR - ❌ GPLinks API error (attempt 1/5): HTTPSConnectionPool(host='gplinks.in', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000211F024C410>, 'Connection to gplinks.in timed out. (connect timeout=20)'))
+2025-07-10 21:03:37,514 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 21:03:37,538 - INFO - ✅ Processed 1 URLs from message 6277
+2025-07-10 21:03:38,056 - INFO - ✅ Completed sync for @dealskabaapp (processed 1 messages)
+2025-07-10 21:03:38,056 - INFO - 📡 Setting up monitoring for @dealsdroppers
+2025-07-10 21:03:56,945 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:03:56,946 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:03:58,279 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:03:58,308 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:03:59,019 - INFO - 🔓 Access confirmed: Deals Dropers (ID: -1002349575648)
+2025-07-10 21:03:59,021 - INFO - 🔄 Syncing new messages for @dealsdroppers since message ID: 7657
+2025-07-10 21:03:59,300 - INFO - ✅ No new messages found for @dealsdroppers
+2025-07-10 21:03:59,301 - INFO - ✅ Initial sync completed for all channels
+2025-07-10 21:03:59,301 - INFO - 🚀 Real-time monitoring activated - waiting for new messages...
+2025-07-10 21:04:28,322 - ERROR - ❌ GPLinks API error (attempt 1/5): HTTPSConnectionPool(host='gplinks.in', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000211F198E490>, 'Connection to gplinks.in timed out. (connect timeout=20)'))
+2025-07-10 21:04:28,323 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 21:04:49,001 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:04:49,002 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:04:50,233 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:04:50,274 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:05:37,227 - ERROR - ❌ GPLinks API error (attempt 1/5): HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000211F024C550>, 'Connection to api.gplinks.com timed out. (connect timeout=20)'))
+2025-07-10 21:05:37,228 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 21:06:04,466 - ERROR - ❌ GPLinks API error (attempt 2/5): HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000211F19CED50>, 'Connection to api.gplinks.com timed out. (connect timeout=20)'))
+2025-07-10 21:06:04,467 - INFO - 🔁 Retrying GPLinks in 2s...
+2025-07-10 21:06:26,489 - ERROR - ❌ GPLinks API error (attempt 3/5): HTTPSConnectionPool(host='gplinks.in', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000211F19A6210>, 'Connection to gplinks.in timed out. (connect timeout=20)'))
+2025-07-10 21:06:26,489 - INFO - 🔁 Retrying GPLinks in 4s...
+2025-07-10 21:06:52,337 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:06:52,338 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:06:53,874 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:06:53,901 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:06:58,018 - INFO - 🛑 Application stopped by user
+2025-07-10 21:06:58,019 - INFO - 🏁 Application shutdown complete
+2025-07-10 21:06:58,021 - INFO - ✅ Resources released
+2025-07-10 21:08:48,194 - INFO - 🚀 Ultimate Deal Auto-Poster starting up...
+2025-07-10 21:08:49,078 - INFO - 🔎 Monitoring 3 Telegram channels...
+2025-07-10 21:08:49,863 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 21:08:49,864 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 21:08:51,928 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store
+2025-07-10 21:08:54,464 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 21:08:54,623 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 21:08:56,902 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 21:08:56,903 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 21:08:58,513 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 21:08:58,623 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 21:08:58,624 - INFO - ✅ Total unique Flipkart deals: 7
+2025-07-10 21:09:02,202 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 21:09:02,213 - INFO - ✅ Scraped 1 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 21:09:38,902 - INFO - 🚀 Starting application main loop
+2025-07-10 21:09:38,903 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-10 21:09:38,909 - INFO - 💾 Database initialized
+2025-07-10 21:09:42,234 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-10 21:10:46,239 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-10 21:10:46,240 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-10 21:10:46,240 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-10 21:10:46,241 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-10 21:10:46,242 - INFO - 🌐 Starting website deal monitoring...
+2025-07-10 21:10:46,243 - INFO - 🔄 Checking websites for new deals...
+2025-07-10 21:10:46,243 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 21:10:46,244 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 21:10:46,695 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-10 21:10:46,697 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1447
+2025-07-10 21:10:47,111 - INFO - 📥 Found 5 new messages to process
+2025-07-10 21:10:47,111 - INFO - 📥 Processing new message ID: 1448
+2025-07-10 21:10:47,113 - INFO - ⏭️ No product URL found in message 1448, skipping
+2025-07-10 21:10:47,618 - INFO - 📥 Processing new message ID: 1449
+2025-07-10 21:10:47,620 - INFO - ⏭️ No product URL found in message 1449, skipping
+2025-07-10 21:10:50,862 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 21:10:50,863 - INFO - 📥 Processing new message ID: 1450
+2025-07-10 21:10:50,865 - INFO - ⏭️ No product URL found in message 1450, skipping
+2025-07-10 21:10:51,368 - INFO - 📥 Processing new message ID: 1451
+2025-07-10 21:10:51,370 - INFO - ⏭️ No product URL found in message 1451, skipping
+2025-07-10 21:10:51,878 - INFO - 📥 Processing new message ID: 1452
+2025-07-10 21:10:51,880 - INFO - ⏭️ No product URL found in message 1452, skipping
+2025-07-10 21:10:54,549 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 21:10:54,550 - INFO - ✅ Completed sync for @LootWaliShopping2_0 (processed 0 messages)
+2025-07-10 21:10:54,550 - INFO - 📡 Setting up monitoring for @dealskabaapp
+2025-07-10 21:10:55,084 - INFO - 🔓 Access confirmed: 🔥🔥 Deals Ka Baap (LOOT DEALS ONLY) (ID: -1001228910825)
+2025-07-10 21:10:55,086 - INFO - 🔄 Syncing new messages for @dealskabaapp since message ID: 6277
+2025-07-10 21:10:55,467 - INFO - ✅ No new messages found for @dealskabaapp
+2025-07-10 21:10:55,468 - INFO - 📡 Setting up monitoring for @dealsdroppers
+2025-07-10 21:10:55,785 - INFO - 🔓 Access confirmed: Deals Dropers (ID: -1002349575648)
+2025-07-10 21:10:55,788 - INFO - 🔄 Syncing new messages for @dealsdroppers since message ID: 7657
+2025-07-10 21:10:55,965 - INFO - ✅ No new messages found for @dealsdroppers
+2025-07-10 21:10:55,966 - INFO - ✅ Initial sync completed for all channels
+2025-07-10 21:10:55,967 - INFO - 🚀 Real-time monitoring activated - waiting for new messages...
+2025-07-10 21:10:59,877 - INFO - ✅ Found 16 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 21:11:00,005 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 21:11:02,658 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store
+2025-07-10 21:11:08,260 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-10 21:11:08,269 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 21:11:08,270 - INFO - ✅ Total unique Amazon deals: 0
+2025-07-10 21:11:15,803 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 21:11:31,682 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 21:11:44,812 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 21:11:44,813 - INFO - ✅ Total unique Flipkart deals: 0
+2025-07-10 21:11:44,816 - INFO - 📊 Total website deals found: 0
+2025-07-10 21:11:44,817 - INFO - 📊 Total unique website deals: 0
+2025-07-10 21:11:44,817 - INFO - 🎯 Website processing complete: 0 deals posted
+2025-07-10 21:11:44,818 - INFO - ⏰ Waiting 30 minutes before next website check...
+2025-07-10 21:14:48,489 - INFO - 🚀 Starting application main loop
+2025-07-10 21:14:48,490 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-10 21:14:48,493 - INFO - 💾 Database initialized
+2025-07-10 21:14:50,301 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-10 21:15:25,909 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-10 21:15:25,910 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-10 21:15:25,910 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-10 21:15:25,911 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-10 21:15:25,912 - INFO - 🌐 Starting website deal monitoring...
+2025-07-10 21:15:25,913 - INFO - 🔄 Checking websites for new deals...
+2025-07-10 21:15:25,913 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-10 21:15:25,914 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-10 21:15:26,497 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-10 21:15:26,499 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1447
+2025-07-10 21:15:27,024 - INFO - 📥 Found 5 new messages to process
+2025-07-10 21:15:27,025 - INFO - 📥 Processing new message ID: 1448
+2025-07-10 21:15:27,027 - INFO - ⏭️ No product URL found in message 1448, skipping
+2025-07-10 21:15:29,634 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-10 21:15:29,634 - INFO - 📥 Processing new message ID: 1449
+2025-07-10 21:15:29,636 - INFO - ⏭️ No product URL found in message 1449, skipping
+2025-07-10 21:15:30,145 - INFO - 📥 Processing new message ID: 1450
+2025-07-10 21:15:30,147 - INFO - ⏭️ No product URL found in message 1450, skipping
+2025-07-10 21:15:30,660 - INFO - 📥 Processing new message ID: 1451
+2025-07-10 21:15:30,661 - INFO - ⏭️ No product URL found in message 1451, skipping
+2025-07-10 21:15:31,174 - INFO - 📥 Processing new message ID: 1452
+2025-07-10 21:15:31,177 - INFO - ⏭️ No product URL found in message 1452, skipping
+2025-07-10 21:15:34,212 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-10 21:15:34,213 - INFO - ✅ Completed sync for @LootWaliShopping2_0 (processed 0 messages)
+2025-07-10 21:15:34,213 - INFO - 📡 Setting up monitoring for @dealskabaapp
+2025-07-10 21:15:34,725 - INFO - 🔓 Access confirmed: 🔥🔥 Deals Ka Baap (LOOT DEALS ONLY) (ID: -1001228910825)
+2025-07-10 21:15:34,727 - INFO - 🔄 Syncing new messages for @dealskabaapp since message ID: 6277
+2025-07-10 21:15:35,162 - INFO - ✅ No new messages found for @dealskabaapp
+2025-07-10 21:15:35,163 - INFO - 📡 Setting up monitoring for @dealsdroppers
+2025-07-10 21:15:38,318 - INFO - ✅ Found 16 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 21:15:38,403 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-10 21:15:38,405 - INFO - 🔓 Access confirmed: Deals Dropers (ID: -1002349575648)
+2025-07-10 21:15:38,406 - INFO - 🔄 Syncing new messages for @dealsdroppers since message ID: 7657
+2025-07-10 21:15:38,768 - INFO - ✅ No new messages found for @dealsdroppers
+2025-07-10 21:15:38,769 - INFO - ✅ Initial sync completed for all channels
+2025-07-10 21:15:38,769 - INFO - 🚀 Real-time monitoring activated - waiting for new messages...
+2025-07-10 21:15:40,269 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store
+2025-07-10 21:15:43,142 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-10 21:15:43,216 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-10 21:15:43,217 - INFO - ✅ Total unique Amazon deals: 0
+2025-07-10 21:15:49,130 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-10 21:15:58,399 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_: 429 Client Error: Too Many Requests for url: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-10 21:16:06,273 - INFO - ✅ Found 48 Flipkart product links
+2025-07-10 21:16:06,274 - INFO - ✅ Scraped 5 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-10 21:16:06,274 - INFO - ✅ Total unique Flipkart deals: 5
+2025-07-10 21:16:06,277 - INFO - 📊 Total website deals found: 5
+2025-07-10 21:16:06,277 - INFO - 📊 Total unique website deals: 5
+2025-07-10 21:16:25,888 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:16:25,889 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:16:27,152 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:16:30,473 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:16:50,270 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:16:50,270 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:16:51,596 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:16:56,377 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:17:10,962 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:17:10,963 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:17:12,303 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:17:16,761 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:17:31,085 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:17:31,086 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:17:32,199 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:17:36,269 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:18:08,824 - ERROR - ❌ GPLinks API error (attempt 1/6): HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001A07F6E1F90>, 'Connection to api.gplinks.com timed out. (connect timeout=30)'))
+2025-07-10 21:18:08,825 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-10 21:18:28,947 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-10 21:18:28,948 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-10 21:18:30,211 - INFO - ✅ Deal sent as text successfully
+2025-07-10 21:18:32,599 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-10 21:18:42,608 - INFO - 🎯 Website processing complete: 5 deals posted
+2025-07-10 21:18:42,608 - INFO - ⏰ Waiting 30 minutes before next website check...
+2025-07-10 21:20:09,641 - INFO - 🛑 Application stopped by user
+2025-07-10 21:20:09,642 - INFO - 🏁 Application shutdown complete
+2025-07-10 21:20:09,643 - INFO - ✅ Resources released
+2025-07-10 21:43:10,210 - INFO - 🚀 Starting application main loop
+2025-07-10 21:43:10,212 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-10 21:43:10,223 - INFO - 💾 Database initialized
+2025-07-10 21:43:13,413 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 10:04:40,248 - INFO - 🚀 Ultimate Deal Auto-Poster starting up...
+2025-07-11 10:04:40,938 - INFO - 🔎 Monitoring 3 Telegram channels...
+2025-07-11 10:04:41,780 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-11 10:04:41,781 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-11 10:04:46,022 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-11 10:04:48,671 - INFO - ✅ Found 48 Flipkart product links
+2025-07-11 10:04:48,672 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store
+2025-07-11 10:04:50,733 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-11 10:04:52,925 - INFO - ✅ Found 48 Flipkart product links
+2025-07-11 10:04:52,927 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-11 10:04:54,741 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-11 10:04:54,754 - INFO - ✅ Scraped 1 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-11 10:04:57,554 - INFO - ✅ Found 48 Flipkart product links
+2025-07-11 10:04:57,556 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-11 10:04:59,940 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-11 10:04:59,943 - INFO - ✅ Scraped 1 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-11 10:04:59,944 - INFO - ✅ Total unique Amazon deals: 0
+2025-07-11 10:05:01,033 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-11 10:05:01,034 - INFO - ✅ Total unique Flipkart deals: 21
+2025-07-11 10:05:01,035 - INFO - 📊 Total website deals found: 21
+2025-07-11 10:05:01,036 - INFO - 📊 Total unique website deals: 21
+2025-07-11 10:05:01,036 - INFO - ⏭️ Skipping deal below min offer percent: matiz Analog 20 cm X 20 cm Wall Clock...
+2025-07-11 10:05:01,037 - INFO - ⏭️ Skipping deal below min offer percent: AJANTA Analog 20.5 cm X 20.5 cm Wall Clock...
+2025-07-11 10:05:01,037 - INFO - ⏭️ Skipping deal below min offer percent: United cogs Analog 30 cm X 30 cm Wall Clock...
+2025-07-11 10:05:01,037 - INFO - ⏭️ Skipping deal below min offer percent: Harmoso Analog 25 cm X 25 cm Wall Clock...
+2025-07-11 10:05:01,038 - INFO - ⏭️ Skipping deal below min offer percent: GOT Dreams Analog 38 cm X 28 cm Wall Clock...
+2025-07-11 10:05:01,038 - INFO - ⏭️ Skipping deal below min offer percent: DivineCrafts Analog 32.5 cm X 32.5 cm Wall Clock...
+2025-07-11 10:05:01,038 - INFO - ⏭️ Skipping deal below min offer percent: Flipkart Perfect Homes Julian Engineered Wood 4 Do...
+2025-07-11 10:05:01,039 - INFO - ⏭️ Skipping deal below min offer percent: matiz Analog 20 cm X 20 cm Wall Clock...
+2025-07-11 10:05:01,039 - INFO - ⏭️ Skipping deal below min offer percent: AJANTA Analog 20.5 cm X 20.5 cm Wall Clock...
+2025-07-11 10:05:01,039 - INFO - ⏭️ Skipping deal below min offer percent: United cogs Analog 30 cm X 30 cm Wall Clock...
+2025-07-11 10:05:01,040 - INFO - ⏭️ Skipping deal below min offer percent: Harmoso Analog 25 cm X 25 cm Wall Clock...
+2025-07-11 10:05:01,041 - INFO - ⏭️ Skipping deal below min offer percent: GOT Dreams Analog 38 cm X 28 cm Wall Clock...
+2025-07-11 10:05:01,042 - INFO - ⏭️ Skipping deal below min offer percent: DivineCrafts Analog 32.5 cm X 32.5 cm Wall Clock...
+2025-07-11 10:05:01,043 - INFO - ⏭️ Skipping deal below min offer percent: The Sleep Company Luxe Motorised 3R Rocking Revolv...
+2025-07-11 10:05:01,043 - INFO - ⏭️ Skipping deal below min offer percent: matiz Analog 20 cm X 20 cm Wall Clock...
+2025-07-11 10:05:01,044 - INFO - ⏭️ Skipping deal below min offer percent: AJANTA Analog 20.5 cm X 20.5 cm Wall Clock...
+2025-07-11 10:05:01,044 - INFO - ⏭️ Skipping deal below min offer percent: United cogs Analog 30 cm X 30 cm Wall Clock...
+2025-07-11 10:05:01,045 - INFO - ⏭️ Skipping deal below min offer percent: Harmoso Analog 25 cm X 25 cm Wall Clock...
+2025-07-11 10:05:01,045 - INFO - ⏭️ Skipping deal below min offer percent: GOT Dreams Analog 38 cm X 28 cm Wall Clock...
+2025-07-11 10:05:01,046 - INFO - ⏭️ Skipping deal below min offer percent: DivineCrafts Analog 32.5 cm X 32.5 cm Wall Clock...
+2025-07-11 10:05:01,046 - INFO - ⏭️ Skipping deal below min offer percent: Flipkart Perfect Homes Julian Engineered Wood 4 Do...
+2025-07-11 10:05:01,046 - INFO - 📊 Website deals after offer filter: 0
+2025-07-11 10:05:01,047 - ERROR - Website deal processing error: name 'other_deals' is not defined
+2025-07-11 10:05:05,143 - INFO - ✅ Telegram client started. Listening for new messages...
+2025-07-11 10:22:47,647 - INFO - 🚀 Starting application main loop
+2025-07-11 10:22:47,648 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 10:22:47,649 - INFO - 💾 Database initialized
+2025-07-11 10:22:49,031 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 10:24:47,174 - INFO - 🚀 Starting application main loop
+2025-07-11 10:24:47,190 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 10:24:47,193 - INFO - 💾 Database initialized
+2025-07-11 10:24:48,716 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 10:25:19,983 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-11 10:25:19,984 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-11 10:25:19,985 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-11 10:25:19,985 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-11 10:25:19,986 - INFO - 🌐 Starting website deal monitoring...
+2025-07-11 10:25:19,986 - INFO - 🔄 Checking websites for new deals...
+2025-07-11 10:25:19,987 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-11 10:25:19,987 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-11 10:25:20,203 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-11 10:25:20,205 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1447
+2025-07-11 10:25:20,514 - INFO - 📥 Found 50 new messages to process
+2025-07-11 10:25:20,515 - INFO - 📥 Processing new message ID: 1468
+2025-07-11 10:25:20,526 - INFO - ⏭️ No product URL found in message 1468, skipping
+2025-07-11 10:25:21,031 - INFO - 📥 Processing new message ID: 1469
+2025-07-11 10:25:21,032 - INFO - 🔍 Processing message 1469 from Loot Wali Shopping 2.0
+2025-07-11 10:25:21,035 - INFO - 🔗 Shortening URL: https://fkrt.cc/gsvRuQG
+2025-07-11 10:25:48,065 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:25:48,066 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:25:50,175 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-11 10:25:51,940 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store
+2025-07-11 10:25:55,836 - INFO - ✅ URL shortened successfully: https://gplinks.co/W5vXVpJe...
+2025-07-11 10:25:57,814 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/deals
+2025-07-11 10:26:02,858 - INFO - ✅ Found 48 Flipkart product links
+2025-07-11 10:26:02,858 - INFO - ✅ Scraped 5 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-11 10:26:06,291 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-11 10:26:06,377 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-11 10:26:07,949 - INFO - ✅ Found 48 Flipkart product links
+2025-07-11 10:26:07,950 - INFO - ✅ Scraped 5 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_
+2025-07-11 10:26:13,418 - INFO - ✅ Found 1 Amazon deals with selector: .a-section.a-spacing-none.aok-relative
+2025-07-11 10:26:13,421 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-11 10:26:13,422 - INFO - ✅ Total unique Amazon deals: 0
+2025-07-11 10:26:15,273 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-11 10:26:15,273 - INFO - ✅ Total unique Flipkart deals: 10
+2025-07-11 10:26:15,275 - INFO - 📊 Total website deals found: 10
+2025-07-11 10:26:15,275 - INFO - 📊 Total unique website deals: 10
+2025-07-11 10:26:42,958 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:26:42,959 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:26:42,961 - ERROR - Image send failed, falling back to text: Timed out
+2025-07-11 10:26:46,625 - INFO - ✅ URL shortened successfully: https://gplinks.co/XmeKm...
+2025-07-11 10:26:46,625 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:26:46,657 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gsvRuQG
+2025-07-11 10:26:47,313 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:26:47,330 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:26:56,689 - INFO - ✅ Processed 1 URLs from message 1469
+2025-07-11 10:26:57,218 - INFO - 📥 Processing new message ID: 1470
+2025-07-11 10:26:57,222 - INFO - 🔍 Processing message 1470 from Loot Wali Shopping 2.0
+2025-07-11 10:26:57,225 - INFO - 🔗 Shortening URL: https://fkrt.cc/gGuxPY6
+2025-07-11 10:27:20,821 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:27:20,821 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:27:43,412 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:27:43,413 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:27:47,500 - INFO - ✅ URL shortened successfully: https://gplinks.co/ZiJx...
+2025-07-11 10:27:48,934 - INFO - ✅ URL shortened successfully: https://gplinks.co/SiXQDHzw...
+2025-07-11 10:27:48,935 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:27:49,953 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:27:49,981 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:27:52,562 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gGuxPY6
+2025-07-11 10:28:30,952 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:28:30,954 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:28:30,988 - INFO - ✅ Processed 1 URLs from message 1470
+2025-07-11 10:28:31,511 - INFO - 📥 Processing new message ID: 1471
+2025-07-11 10:28:31,517 - INFO - 🔍 Processing message 1471 from Loot Wali Shopping 2.0
+2025-07-11 10:28:31,522 - INFO - 🔗 Shortening URL: https://fkrt.cc/gZKPA1m
+2025-07-11 10:28:54,552 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:28:54,553 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:28:59,518 - INFO - ✅ URL shortened successfully: https://gplinks.co/RVN0A...
+2025-07-11 10:28:59,519 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:29:00,543 - INFO - ✅ URL shortened successfully: https://gplinks.co/KYYqY...
+2025-07-11 10:29:01,716 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:29:01,756 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:29:04,711 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gZKPA1m
+2025-07-11 10:29:43,615 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:29:43,617 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:29:43,634 - INFO - ✅ Processed 1 URLs from message 1471
+2025-07-11 10:29:44,176 - INFO - 📥 Processing new message ID: 1472
+2025-07-11 10:29:44,183 - INFO - 🔍 Processing message 1472 from Loot Wali Shopping 2.0
+2025-07-11 10:29:44,187 - INFO - 🔗 Shortening URL: https://fkrt.cc/gbUP7CA
+2025-07-11 10:30:09,055 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:30:09,057 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:30:16,631 - INFO - ✅ URL shortened successfully: https://gplinks.co/AEOb...
+2025-07-11 10:30:16,632 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:30:17,590 - INFO - ✅ URL shortened successfully: https://gplinks.co/ArBvJRx8...
+2025-07-11 10:30:18,619 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:30:18,655 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:30:20,810 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gbUP7CA
+2025-07-11 10:30:28,721 - ERROR - ❌ GPLinks API error (attempt 1/4): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-11 10:30:28,722 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:30:55,491 - INFO - 🛑 Application stopped by user
+2025-07-11 10:30:55,491 - INFO - 🏁 Application shutdown complete
+2025-07-11 10:30:55,492 - INFO - ✅ Resources released
+2025-07-11 10:37:46,683 - INFO - 🚀 Starting application main loop
+2025-07-11 10:37:46,685 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 10:37:46,686 - INFO - 💾 Database initialized
+2025-07-11 10:37:48,229 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 10:39:53,726 - INFO - 🚀 Starting application main loop
+2025-07-11 10:39:53,727 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 10:39:53,728 - INFO - 💾 Database initialized
+2025-07-11 10:39:55,270 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 10:41:36,618 - INFO - 🚀 Starting application main loop
+2025-07-11 10:41:36,619 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 10:41:36,621 - INFO - 💾 Database initialized
+2025-07-11 10:41:38,286 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 10:42:19,755 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-11 10:42:19,755 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-11 10:42:19,756 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-11 10:42:19,756 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-11 10:42:19,757 - INFO - 🌐 Starting website deal monitoring...
+2025-07-11 10:42:19,758 - INFO - 🔄 Checking websites for new deals...
+2025-07-11 10:42:19,758 - INFO - 🛒 Scraping Amazon Today's Deals...
+2025-07-11 10:42:19,759 - INFO - 🛒 Scraping Flipkart deals...
+2025-07-11 10:42:20,007 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-11 10:42:20,009 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1471
+2025-07-11 10:42:20,292 - INFO - 📥 Found 50 new messages to process
+2025-07-11 10:42:20,292 - INFO - 📥 Processing new message ID: 1472
+2025-07-11 10:42:20,293 - INFO - ⏭️ Message 1472 already processed, skipping
+2025-07-11 10:42:20,809 - INFO - 📥 Processing new message ID: 1473
+2025-07-11 10:42:20,811 - INFO - 🔍 Processing message 1473 from Loot Wali Shopping 2.0
+2025-07-11 10:42:20,815 - INFO - 🔗 Shortening URL: https://fkrt.cc/g91yMGi
+2025-07-11 10:42:44,110 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:42:44,110 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:42:51,059 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/gp/goldbox
+2025-07-11 10:42:53,751 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store
+2025-07-11 10:43:21,257 - ERROR - ❌ GPLinks API error (attempt 2/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//fkrt.cc/g91yMGi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000247E9012350>, 'Connection to api.gplinks.com timed out. (connect timeout=20)'))
+2025-07-11 10:43:21,258 - INFO - 🔁 Retrying GPLinks in 2s...
+2025-07-11 10:43:23,645 - INFO - ✅ Found 4 Amazon product links
+2025-07-11 10:43:23,645 - INFO - ✅ Scraped 4 deals from https://www.amazon.in/deals
+2025-07-11 10:43:25,289 - INFO - ✅ Found 48 Flipkart product links
+2025-07-11 10:43:25,290 - INFO - ✅ Scraped 5 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+2025-07-11 10:43:45,657 - ERROR - ❌ GPLinks API error (attempt 3/4): HTTPSConnectionPool(host='gplinks.in', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//fkrt.cc/g91yMGi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000247E8FB27B0>, 'Connection to gplinks.in timed out. (connect timeout=20)'))
+2025-07-11 10:43:45,658 - INFO - 🔁 Retrying GPLinks in 4s...
+2025-07-11 10:43:49,581 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-11 10:43:49,645 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031
+2025-07-11 10:44:00,726 - ERROR - ❌ Error scraping Flipkart URL https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_: HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000247EA878050>: Failed to resolve 'www.flipkart.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-11 10:44:11,447 - INFO - ✅ URL shortened successfully: https://gplinks.co/BqUXa...
+2025-07-11 10:44:13,815 - INFO - ✅ Found 17 Amazon deals with selector: .a-section.a-spacing-none
+2025-07-11 10:44:13,875 - INFO - ✅ Scraped 0 deals from https://www.amazon.in/s?i=specialty-aps&bbn=1389401031&rh=n%3A1389401031%2Cn%3A1389402031%2Cn%3A1389403031
+2025-07-11 10:44:13,876 - INFO - ✅ Total unique Amazon deals: 4
+2025-07-11 10:44:17,513 - INFO - ✅ Scraped 0 deals from https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~All-Electronics~Deals-of-the-Day_HP_NAVIGATION_MENU
+2025-07-11 10:44:17,514 - INFO - ✅ Total unique Flipkart deals: 5
+2025-07-11 10:44:17,516 - INFO - 📊 Total website deals found: 9
+2025-07-11 10:44:17,516 - INFO - 📊 Total unique website deals: 9
+2025-07-11 10:44:47,229 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:44:47,230 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:44:47,233 - ERROR - Telegram error (attempt 1): Timed out
+2025-07-11 10:44:47,234 - INFO - 🔁 Retrying in 1s...
+2025-07-11 10:44:51,930 - INFO - ✅ URL shortened successfully: https://gplinks.co/nDyy4...
+2025-07-11 10:44:51,931 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:44:52,842 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:44:52,869 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:44:53,349 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g91yMGi
+2025-07-11 10:45:02,878 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-11 10:45:02,878 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:45:03,370 - INFO - ✅ Processed 1 URLs from message 1473
+2025-07-11 10:45:03,888 - INFO - 📥 Processing new message ID: 1474
+2025-07-11 10:45:03,890 - INFO - 🔍 Processing message 1474 from Loot Wali Shopping 2.0
+2025-07-11 10:45:03,892 - INFO - 🔗 Shortening URL: https://fkrt.cc/g6z9Knc
+2025-07-11 10:45:26,157 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:45:26,158 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:45:26,160 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:45:26,182 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:45:30,928 - INFO - ✅ URL shortened successfully: https://gplinks.co/8QPqpl...
+2025-07-11 10:45:34,644 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g6z9Knc
+2025-07-11 10:45:56,534 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:45:56,535 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:45:56,554 - INFO - ✅ Processed 1 URLs from message 1474
+2025-07-11 10:45:57,079 - INFO - 📥 Processing new message ID: 1475
+2025-07-11 10:45:57,083 - INFO - 🔍 Processing message 1475 from Loot Wali Shopping 2.0
+2025-07-11 10:45:57,086 - INFO - 🔗 Shortening URL: https://fkrt.cc/g9vb1uR
+2025-07-11 10:46:19,478 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:46:19,479 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:46:22,806 - INFO - ✅ URL shortened successfully: https://gplinks.co/O0vSMiRf...
+2025-07-11 10:46:22,808 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:46:24,547 - INFO - ✅ URL shortened successfully: https://gplinks.co/tdMQYVK...
+2025-07-11 10:46:25,458 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:46:25,484 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:46:28,571 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g9vb1uR
+2025-07-11 10:46:35,493 - INFO - 🔗 Added Amazon affiliate ID to URL
+2025-07-11 10:46:35,494 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:46:36,461 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:46:36,491 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:46:38,581 - INFO - 🔗 Shortening URL: https://fkrt.cc/g3GXQTY
+2025-07-11 10:47:00,999 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:47:01,000 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:47:24,675 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:47:24,676 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:47:29,908 - INFO - ✅ URL shortened successfully: https://gplinks.co/OAXSm7...
+2025-07-11 10:47:30,634 - INFO - ✅ URL shortened successfully: https://gplinks.co/ehquiDw...
+2025-07-11 10:47:30,636 - INFO - 📤 Sending website deal to @@smartlootdeals0...
+2025-07-11 10:47:31,777 - INFO - ✅ Deal sent as text successfully
+2025-07-11 10:47:31,816 - INFO - ✅ Website deal processed and posted successfully!
+2025-07-11 10:47:34,507 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g3GXQTY
+2025-07-11 10:47:41,827 - INFO - 🎯 Website processing complete: 5 deals posted
+2025-07-11 10:47:41,828 - INFO - ⏰ Waiting 1800 seconds before next website check...
+2025-07-11 10:47:44,526 - INFO - 🔗 Shortening URL: https://fkrt.cc/gH0C4ZO
+2025-07-11 10:48:08,632 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:48:08,633 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:48:12,214 - INFO - ✅ URL shortened successfully: https://gplinks.co/p2t6zCI...
+2025-07-11 10:48:15,709 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gH0C4ZO
+2025-07-11 10:48:25,740 - INFO - ✅ Processed 3 URLs from message 1475
+2025-07-11 10:48:26,264 - INFO - 📥 Processing new message ID: 1476
+2025-07-11 10:48:26,268 - INFO - 🔍 Processing message 1476 from Loot Wali Shopping 2.0
+2025-07-11 10:48:26,270 - INFO - 🔗 Shortening URL: https://fkrt.cc/gnvUPSR
+2025-07-11 10:48:52,451 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:48:52,452 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:48:57,722 - INFO - ✅ URL shortened successfully: https://gplinks.co/I20vUY...
+2025-07-11 10:49:01,470 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gnvUPSR
+2025-07-11 10:49:11,497 - INFO - ✅ Processed 1 URLs from message 1476
+2025-07-11 10:49:12,024 - INFO - 📥 Processing new message ID: 1477
+2025-07-11 10:49:12,028 - INFO - 🔍 Processing message 1477 from Loot Wali Shopping 2.0
+2025-07-11 10:49:12,030 - INFO - 🔗 Shortening URL: https://fkrt.cc/gpkWGFf
+2025-07-11 10:49:35,145 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:49:35,146 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:49:39,059 - INFO - ✅ URL shortened successfully: https://gplinks.co/nO3D...
+2025-07-11 10:49:42,088 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gpkWGFf
+2025-07-11 10:49:52,118 - INFO - ✅ Processed 1 URLs from message 1477
+2025-07-11 10:49:52,646 - INFO - 📥 Processing new message ID: 1478
+2025-07-11 10:49:52,649 - INFO - 🔍 Processing message 1478 from Loot Wali Shopping 2.0
+2025-07-11 10:49:52,651 - INFO - 🔗 Shortening URL: https://fkrt.cc/gAQ61zi
+2025-07-11 10:50:15,069 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:50:15,069 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:50:18,975 - INFO - ✅ URL shortened successfully: https://gplinks.co/wHfXC4...
+2025-07-11 10:50:22,899 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gAQ61zi
+2025-07-11 10:50:32,919 - INFO - ✅ Processed 1 URLs from message 1478
+2025-07-11 10:50:33,434 - INFO - 📥 Processing new message ID: 1479
+2025-07-11 10:50:33,438 - INFO - 🔍 Processing message 1479 from Loot Wali Shopping 2.0
+2025-07-11 10:50:33,441 - INFO - 🔗 Shortening URL: https://fkrt.cc/gGBrfAR
+2025-07-11 10:50:55,758 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:50:55,759 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:50:59,896 - INFO - ✅ URL shortened successfully: https://gplinks.co/TfXY...
+2025-07-11 10:51:02,863 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gGBrfAR
+2025-07-11 10:51:12,897 - INFO - ✅ Processed 1 URLs from message 1479
+2025-07-11 10:51:13,423 - INFO - 📥 Processing new message ID: 1480
+2025-07-11 10:51:13,427 - INFO - 🔍 Processing message 1480 from Loot Wali Shopping 2.0
+2025-07-11 10:51:13,430 - INFO - 🔗 Shortening URL: https://fkrt.cc/gdWoLtL
+2025-07-11 10:51:39,698 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:51:39,700 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:51:43,573 - INFO - ✅ URL shortened successfully: https://gplinks.co/vINWag...
+2025-07-11 10:51:46,585 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gdWoLtL
+2025-07-11 10:51:56,619 - INFO - ✅ Processed 1 URLs from message 1480
+2025-07-11 10:51:57,153 - INFO - 📥 Processing new message ID: 1481
+2025-07-11 10:51:57,162 - INFO - 🔍 Processing message 1481 from Loot Wali Shopping 2.0
+2025-07-11 10:51:57,169 - INFO - 🔗 Shortening URL: https://fkrt.cc/gRXrr7U
+2025-07-11 10:52:19,734 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:52:19,734 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:52:23,572 - INFO - ✅ URL shortened successfully: https://gplinks.co/3ev0i...
+2025-07-11 10:52:27,050 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gRXrr7U
+2025-07-11 10:52:37,089 - INFO - ✅ Processed 1 URLs from message 1481
+2025-07-11 10:52:37,609 - INFO - 📥 Processing new message ID: 1482
+2025-07-11 10:52:37,613 - INFO - 🔍 Processing message 1482 from Loot Wali Shopping 2.0
+2025-07-11 10:52:37,617 - INFO - 🔗 Shortening URL: https://fkrt.cc/g7MyV1i
+2025-07-11 10:53:00,157 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:53:00,158 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:53:08,088 - INFO - ✅ URL shortened successfully: https://gplinks.co/p6ROc...
+2025-07-11 10:53:11,646 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g7MyV1i
+2025-07-11 10:53:21,680 - INFO - ✅ Processed 1 URLs from message 1482
+2025-07-11 10:53:22,212 - INFO - 📥 Processing new message ID: 1483
+2025-07-11 10:53:22,218 - INFO - 🔍 Processing message 1483 from Loot Wali Shopping 2.0
+2025-07-11 10:53:22,224 - INFO - 🔗 Shortening URL: https://fkrt.cc/g7LvgMI
+2025-07-11 10:53:47,150 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:53:47,152 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:54:12,699 - ERROR - ❌ GPLinks API error (attempt 2/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//fkrt.cc/g7LvgMI (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000247EAD04B90>, 'Connection to api.gplinks.com timed out. (connect timeout=20)'))
+2025-07-11 10:54:12,700 - INFO - 🔁 Retrying GPLinks in 2s...
+2025-07-11 10:54:35,259 - ERROR - ❌ GPLinks API error (attempt 3/4): HTTPSConnectionPool(host='gplinks.in', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//fkrt.cc/g7LvgMI (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000247EA878410>, 'Connection to gplinks.in timed out. (connect timeout=20)'))
+2025-07-11 10:54:35,260 - INFO - 🔁 Retrying GPLinks in 4s...
+2025-07-11 10:55:02,323 - ERROR - ❌ GPLinks API error (attempt 4/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//fkrt.cc/g7LvgMI (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000247EAD05BD0>, 'Connection to api.gplinks.com timed out. (connect timeout=20)'))
+2025-07-11 10:55:20,289 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-11 10:55:21,085 - ERROR - ❌ GPLinks returned error: Invalid API call
+2025-07-11 10:55:22,241 - ERROR - ❌ GPLinks API error (attempt 1/4): 403 Client Error: Forbidden for url: https://gplinks.co/api
+2025-07-11 10:55:22,241 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:55:24,450 - ERROR - ❌ GPLinks API error (attempt 2/4): 403 Client Error: Forbidden for url: https://gplinks.co/api
+2025-07-11 10:55:24,452 - INFO - 🔁 Retrying GPLinks in 2s...
+2025-07-11 10:55:27,651 - ERROR - ❌ GPLinks API error (attempt 3/4): 403 Client Error: Forbidden for url: https://gplinks.co/api
+2025-07-11 10:55:27,654 - INFO - 🔁 Retrying GPLinks in 4s...
+2025-07-11 10:55:32,553 - ERROR - ❌ GPLinks API error (attempt 4/4): 403 Client Error: Forbidden for url: https://gplinks.co/api
+2025-07-11 10:55:32,555 - ERROR - ❌ GPLinks failed after trying all endpoints. Using original URL.
+2025-07-11 10:55:33,592 - INFO - ✅ Used TinyURL fallback: https://tinyurl.com/yopnkfpc...
+2025-07-11 10:55:36,678 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g7LvgMI
+2025-07-11 10:55:46,706 - INFO - ✅ Processed 1 URLs from message 1483
+2025-07-11 10:55:47,240 - INFO - 📥 Processing new message ID: 1484
+2025-07-11 10:55:47,245 - INFO - 🔍 Processing message 1484 from Loot Wali Shopping 2.0
+2025-07-11 10:55:47,250 - INFO - 🔗 Shortening URL: https://fkrt.cc/gHazvAg
+2025-07-11 10:56:18,053 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:56:18,055 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:56:22,852 - INFO - ✅ URL shortened successfully: https://gplinks.co/3gfKHkfd...
+2025-07-11 10:56:27,601 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gHazvAg
+2025-07-11 10:56:37,638 - INFO - ✅ Processed 1 URLs from message 1484
+2025-07-11 10:56:38,169 - INFO - 📥 Processing new message ID: 1485
+2025-07-11 10:56:38,177 - INFO - 🔍 Processing message 1485 from Loot Wali Shopping 2.0
+2025-07-11 10:56:38,184 - INFO - 🔗 Shortening URL: https://fkrt.cc/gTCK075
+2025-07-11 10:57:04,033 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:57:04,034 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:57:10,699 - INFO - ✅ URL shortened successfully: https://gplinks.co/NMJ6R...
+2025-07-11 10:57:13,466 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gTCK075
+2025-07-11 10:57:23,493 - INFO - ✅ Processed 1 URLs from message 1485
+2025-07-11 10:57:24,020 - INFO - 📥 Processing new message ID: 1486
+2025-07-11 10:57:24,023 - INFO - 🔍 Processing message 1486 from Loot Wali Shopping 2.0
+2025-07-11 10:57:24,026 - INFO - 🔗 Shortening URL: https://fkrt.cc/gFbK9Pp
+2025-07-11 10:57:46,817 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:57:46,817 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:57:51,733 - INFO - ✅ URL shortened successfully: https://gplinks.co/W3yuc...
+2025-07-11 10:57:55,785 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gFbK9Pp
+2025-07-11 10:58:05,818 - INFO - ✅ Processed 1 URLs from message 1486
+2025-07-11 10:58:06,344 - INFO - 📥 Processing new message ID: 1487
+2025-07-11 10:58:06,348 - INFO - 🔍 Processing message 1487 from Loot Wali Shopping 2.0
+2025-07-11 10:58:06,351 - INFO - 🔗 Shortening URL: https://fkrt.cc/gCMFBm4
+2025-07-11 10:58:31,639 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:58:31,640 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:58:35,479 - INFO - ✅ URL shortened successfully: https://gplinks.co/7zSqt4...
+2025-07-11 10:58:40,235 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gCMFBm4
+2025-07-11 10:58:50,267 - INFO - ✅ Processed 1 URLs from message 1487
+2025-07-11 10:58:50,788 - INFO - 📥 Processing new message ID: 1488
+2025-07-11 10:58:50,793 - INFO - 🔍 Processing message 1488 from Loot Wali Shopping 2.0
+2025-07-11 10:58:50,799 - INFO - 🔗 Shortening URL: https://fkrt.cc/g0S2mAg
+2025-07-11 10:59:10,816 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='gplinks.in', port=443): Max retries exceeded with url: /api?api=fabd2d1b21ee241d7c27eae95e6feca6e48065e1&url=https%3A//fkrt.cc/g0S2mAg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000247EAD06350>, 'Connection to gplinks.in timed out. (connect timeout=20)'))
+2025-07-11 10:59:10,817 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 10:59:34,373 - ERROR - ❌ GPLinks API error (attempt 2/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 10:59:34,374 - INFO - 🔁 Retrying GPLinks in 2s...
+2025-07-11 10:59:39,073 - INFO - ✅ URL shortened successfully: https://gplinks.co/5lQMuQ4...
+2025-07-11 10:59:42,152 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g0S2mAg
+2025-07-11 10:59:52,168 - INFO - 🔗 Shortening URL: https://fkrt.cc/gzriQqM
+2025-07-11 11:00:14,934 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:00:14,935 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:00:20,053 - INFO - ✅ URL shortened successfully: https://gplinks.co/Krp1o...
+2025-07-11 11:00:22,669 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gzriQqM
+2025-07-11 11:00:32,696 - INFO - ✅ Processed 2 URLs from message 1488
+2025-07-11 11:00:33,216 - INFO - 📥 Processing new message ID: 1489
+2025-07-11 11:00:33,219 - INFO - 🔍 Processing message 1489 from Loot Wali Shopping 2.0
+2025-07-11 11:00:33,221 - INFO - 🔗 Shortening URL: https://fkrt.cc/gS4sZcT
+2025-07-11 11:01:02,528 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:01:02,530 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:01:10,488 - INFO - ✅ URL shortened successfully: https://gplinks.co/bNh6xE...
+2025-07-11 11:01:13,724 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gS4sZcT
+2025-07-11 11:01:23,752 - INFO - ✅ Processed 1 URLs from message 1489
+2025-07-11 11:01:24,271 - INFO - 📥 Processing new message ID: 1490
+2025-07-11 11:01:24,276 - INFO - 🔍 Processing message 1490 from Loot Wali Shopping 2.0
+2025-07-11 11:01:24,282 - INFO - 🔗 Shortening URL: https://fkrt.cc/gYwX09q
+2025-07-11 11:01:46,495 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:01:46,495 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:01:51,118 - INFO - ✅ URL shortened successfully: https://gplinks.co/RHjZZ...
+2025-07-11 11:01:54,443 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gYwX09q
+2025-07-11 11:02:04,483 - INFO - ✅ Processed 1 URLs from message 1490
+2025-07-11 11:02:05,005 - INFO - 📥 Processing new message ID: 1491
+2025-07-11 11:02:05,013 - INFO - ⏭️ No product URL found in message 1491, skipping
+2025-07-11 11:02:05,519 - INFO - 📥 Processing new message ID: 1492
+2025-07-11 11:02:05,522 - INFO - 🔍 Processing message 1492 from Loot Wali Shopping 2.0
+2025-07-11 11:02:05,525 - INFO - 🔗 Shortening URL: https://fkrt.cc/gPAHNDx
+2025-07-11 11:02:36,091 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:02:36,092 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:02:42,423 - INFO - ✅ URL shortened successfully: https://gplinks.co/i7lJjMR...
+2025-07-11 11:02:45,822 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gPAHNDx
+2025-07-11 11:02:55,853 - INFO - ✅ Processed 1 URLs from message 1492
+2025-07-11 11:02:56,377 - INFO - 📥 Processing new message ID: 1493
+2025-07-11 11:02:56,381 - INFO - ⏭️ No product URL found in message 1493, skipping
+2025-07-11 11:02:56,892 - INFO - 📥 Processing new message ID: 1494
+2025-07-11 11:02:56,895 - INFO - ⏭️ No product URL found in message 1494, skipping
+2025-07-11 11:02:57,408 - INFO - 📥 Processing new message ID: 1495
+2025-07-11 11:02:57,411 - INFO - 🔍 Processing message 1495 from Loot Wali Shopping 2.0
+2025-07-11 11:02:57,413 - INFO - 🔗 Shortening URL: https://fkrt.cc/g6PMgxX
+2025-07-11 11:03:23,050 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:03:23,050 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:03:31,035 - INFO - ✅ URL shortened successfully: https://gplinks.co/gNYQCwP...
+2025-07-11 11:03:33,868 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g6PMgxX
+2025-07-11 11:03:43,906 - INFO - ✅ Processed 1 URLs from message 1495
+2025-07-11 11:03:44,430 - INFO - 📥 Processing new message ID: 1496
+2025-07-11 11:03:44,433 - INFO - 🔍 Processing message 1496 from Loot Wali Shopping 2.0
+2025-07-11 11:03:44,437 - INFO - 🔗 Shortening URL: https://fkrt.cc/gJ2WSw5
+2025-07-11 11:04:07,119 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:04:07,120 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:04:14,265 - INFO - ✅ URL shortened successfully: https://gplinks.co/2XSO1ee...
+2025-07-11 11:04:17,305 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gJ2WSw5
+2025-07-11 11:04:27,337 - INFO - ✅ Processed 1 URLs from message 1496
+2025-07-11 11:04:27,856 - INFO - 📥 Processing new message ID: 1497
+2025-07-11 11:04:27,862 - INFO - 🔍 Processing message 1497 from Loot Wali Shopping 2.0
+2025-07-11 11:04:27,866 - INFO - 🔗 Shortening URL: https://fkrt.cc/g4cuoAz
+2025-07-11 11:04:53,359 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:04:53,360 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:04:58,339 - INFO - ✅ URL shortened successfully: https://gplinks.co/WJ3GGBe...
+2025-07-11 11:05:01,837 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g4cuoAz
+2025-07-11 11:05:11,872 - INFO - ✅ Processed 1 URLs from message 1497
+2025-07-11 11:05:12,404 - INFO - 📥 Processing new message ID: 1498
+2025-07-11 11:05:12,410 - INFO - 🔍 Processing message 1498 from Loot Wali Shopping 2.0
+2025-07-11 11:05:12,415 - INFO - 🔗 Shortening URL: https://fkrt.cc/g4DKLLn
+2025-07-11 11:05:38,099 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:05:38,101 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:05:41,837 - INFO - ✅ URL shortened successfully: https://gplinks.co/VEkZznS0...
+2025-07-11 11:05:45,115 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g4DKLLn
+2025-07-11 11:05:55,150 - INFO - ✅ Processed 1 URLs from message 1498
+2025-07-11 11:05:55,680 - INFO - 📥 Processing new message ID: 1499
+2025-07-11 11:05:55,689 - INFO - 🔍 Processing message 1499 from Loot Wali Shopping 2.0
+2025-07-11 11:05:55,697 - INFO - 🔗 Shortening URL: https://fkrt.cc/g4LvclT
+2025-07-11 11:06:18,733 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:06:18,734 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:06:23,040 - INFO - ✅ URL shortened successfully: https://gplinks.co/Yu9I0L7v...
+2025-07-11 11:06:26,346 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/g4LvclT
+2025-07-11 11:06:36,372 - INFO - ✅ Processed 1 URLs from message 1499
+2025-07-11 11:06:36,895 - INFO - 📥 Processing new message ID: 1500
+2025-07-11 11:06:36,899 - INFO - 🔍 Processing message 1500 from Loot Wali Shopping 2.0
+2025-07-11 11:06:36,903 - INFO - 🔗 Shortening URL: https://fkrt.cc/ggJWfYJ
+2025-07-11 11:07:02,569 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:07:02,571 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:07:09,436 - INFO - ✅ URL shortened successfully: https://gplinks.co/1wnU...
+2025-07-11 11:07:12,996 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/ggJWfYJ
+2025-07-11 11:07:23,010 - INFO - ✅ Processed 1 URLs from message 1500
+2025-07-11 11:07:23,530 - INFO - 📥 Processing new message ID: 1501
+2025-07-11 11:07:23,534 - INFO - 🔍 Processing message 1501 from Loot Wali Shopping 2.0
+2025-07-11 11:07:23,537 - INFO - 🔗 Shortening URL: https://fkrt.cc/gVbn0gR
+2025-07-11 11:07:46,226 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:07:46,227 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:07:58,209 - INFO - ✅ URL shortened successfully: https://gplinks.co/DFCh...
+2025-07-11 11:08:01,538 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/gVbn0gR
+2025-07-11 11:08:11,568 - INFO - ✅ Processed 1 URLs from message 1501
+2025-07-11 11:08:12,090 - INFO - 📥 Processing new message ID: 1502
+2025-07-11 11:08:12,093 - INFO - 🔍 Processing message 1502 from Loot Wali Shopping 2.0
+2025-07-11 11:08:12,095 - INFO - 🔗 Shortening URL: https://fkrt.cc/ggyXtA6
+2025-07-11 11:08:34,745 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:08:34,745 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:08:38,478 - INFO - ✅ URL shortened successfully: https://gplinks.co/BXAD0U2...
+2025-07-11 11:08:41,720 - INFO - ✅ Successfully posted deal with URL: https://fkrt.cc/ggyXtA6
+2025-07-11 11:08:51,754 - INFO - ✅ Processed 1 URLs from message 1502
+2025-07-11 11:08:52,280 - INFO - 📥 Processing new message ID: 1503
+2025-07-11 11:08:52,285 - INFO - 🔍 Processing message 1503 from Loot Wali Shopping 2.0
+2025-07-11 11:08:52,290 - INFO - 🔗 Shortening URL: https://fkrt.cc/gf76fN9
+2025-07-11 11:09:16,710 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=20)
+2025-07-11 11:09:16,711 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:09:16,712 - INFO - 🛑 Website monitoring cancelled
+2025-07-11 11:09:16,743 - INFO - ✅ Pyrogram client stopped
+2025-07-11 11:09:16,749 - INFO - 🛑 Application stopped by user
+2025-07-11 11:09:16,750 - INFO - 🏁 Application shutdown complete
+2025-07-11 11:09:16,751 - INFO - ✅ Resources released
+2025-07-11 11:09:37,962 - INFO - 🚀 Starting application main loop
+2025-07-11 11:09:37,964 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 11:09:37,965 - INFO - 💾 Database initialized
+2025-07-11 11:09:39,380 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 11:09:39,380 - INFO - 📋 Posting queue initialized: 4 posts per 30 minutes
+2025-07-11 11:09:40,581 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-11 11:09:40,581 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-11 11:09:40,582 - INFO - 🌐 Website scraping is DISABLED - only monitoring Telegram channels
+2025-07-11 11:09:40,582 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-11 11:09:40,583 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-11 11:09:40,584 - INFO - 📋 Starting queue processing loop...
+2025-07-11 11:09:40,585 - INFO - 📊 Queue status: 0/50 items, 0/4 posts in window
+2025-07-11 11:09:40,682 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-11 11:09:40,684 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1502
+2025-07-11 11:09:40,996 - INFO - 📥 Found 22 new messages to process
+2025-07-11 11:09:40,996 - INFO - 📥 Processing new message ID: 1503
+2025-07-11 11:09:40,998 - INFO - 🔍 Processing message 1503 from Loot Wali Shopping 2.0
+2025-07-11 11:09:41,062 - INFO - 🔗 Shortening URL: https://fkrt.cc/gf76fN9
+2025-07-11 11:09:45,264 - INFO - ✅ URL shortened successfully: https://gplinks.co/mXP9R...
+2025-07-11 11:09:46,296 - WARNING - ⚠️ Failed to generate image hash: no such column: image_hash
+2025-07-11 11:09:48,743 - INFO - ✅ Posted deal immediately: https://fkrt.cc/gf76fN9
+2025-07-11 11:09:48,756 - INFO - ✅ Processed 1 URLs from message 1503
+2025-07-11 11:09:49,286 - INFO - 📥 Processing new message ID: 1504
+2025-07-11 11:09:49,289 - INFO - 🔍 Processing message 1504 from Loot Wali Shopping 2.0
+2025-07-11 11:09:49,371 - INFO - 🔗 Shortening URL: https://fkrt.cc/gbKiu13
+2025-07-11 11:10:04,865 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 11:10:04,866 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:10:10,266 - INFO - ✅ URL shortened successfully: https://gplinks.co/aC8k...
+2025-07-11 11:10:13,072 - INFO - ✅ Posted deal immediately: https://fkrt.cc/gbKiu13
+2025-07-11 11:10:13,081 - INFO - ✅ Processed 1 URLs from message 1504
+2025-07-11 11:10:13,599 - INFO - 📥 Processing new message ID: 1505
+2025-07-11 11:10:13,602 - INFO - 🔍 Processing message 1505 from Loot Wali Shopping 2.0
+2025-07-11 11:10:13,673 - INFO - 🔗 Shortening URL: https://fkrt.cc/gIrZT3A
+2025-07-11 11:10:29,265 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 11:10:29,266 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:10:42,843 - INFO - ✅ URL shortened successfully: https://gplinks.co/tD6BiC...
+2025-07-11 11:10:45,752 - INFO - ✅ Posted deal immediately: https://fkrt.cc/gIrZT3A
+2025-07-11 11:10:45,766 - INFO - ✅ Processed 1 URLs from message 1505
+2025-07-11 11:10:46,288 - INFO - 📥 Processing new message ID: 1506
+2025-07-11 11:10:46,293 - INFO - ⏭️ No product URL found in message 1506, skipping
+2025-07-11 11:10:46,803 - INFO - 📥 Processing new message ID: 1507
+2025-07-11 11:10:46,804 - INFO - ⏭️ No product URL found in message 1507, skipping
+2025-07-11 11:10:47,317 - INFO - 📥 Processing new message ID: 1508
+2025-07-11 11:10:47,318 - INFO - 🔍 Processing message 1508 from Loot Wali Shopping 2.0
+2025-07-11 11:10:47,531 - INFO - 🔗 Shortening URL: https://bitli.in/8TeLisp
+2025-07-11 11:10:50,723 - INFO - ✅ URL shortened successfully: https://gplinks.co/lCasy...
+2025-07-11 11:10:52,086 - ERROR - ❌ Error processing URL https://bitli.in/8TeLisp: 'utf-16-le' codec can't decode bytes in position 200-201: unexpected end of data
+2025-07-11 11:10:52,282 - INFO - 🔗 Shortening URL: https://bitli.in/CvASIhJ
+2025-07-11 11:10:54,294 - INFO - ✅ URL shortened successfully: https://gplinks.co/GtdJ...
+2025-07-11 11:10:55,062 - ERROR - ❌ Error processing URL https://bitli.in/CvASIhJ: 'utf-16-le' codec can't decode bytes in position 200-201: unexpected end of data
+2025-07-11 11:10:55,574 - INFO - 📥 Processing new message ID: 1509
+2025-07-11 11:10:55,575 - INFO - 🔍 Processing message 1509 from Loot Wali Shopping 2.0
+2025-07-11 11:10:55,656 - INFO - 🔗 Shortening URL: https://fkrt.cc/gapyu3m
+2025-07-11 11:11:11,063 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 11:11:11,064 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:11:11,065 - INFO - 🛑 Queue processing cancelled
+2025-07-11 11:11:11,087 - INFO - ✅ Pyrogram client stopped
+2025-07-11 11:11:11,093 - INFO - 🛑 Application stopped by user
+2025-07-11 11:11:11,094 - INFO - 🏁 Application shutdown complete
+2025-07-11 11:11:11,094 - INFO - ✅ Resources released
+2025-07-11 11:11:30,951 - INFO - 🚀 Starting application main loop
+2025-07-11 11:11:30,952 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 11:11:30,954 - INFO - 💾 Database initialized
+2025-07-11 11:11:33,364 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 11:11:33,365 - INFO - 📋 Posting queue initialized: 4 posts per 30 minutes
+2025-07-11 11:11:35,933 - INFO - 👤 Logged in as Rahul (ID: 7690923220)
+2025-07-11 11:11:35,934 - INFO - 🚀 Starting both Telegram and Website monitoring...
+2025-07-11 11:11:35,934 - INFO - 🌐 Website scraping is DISABLED - only monitoring Telegram channels
+2025-07-11 11:11:35,935 - INFO - 🚀 Starting advanced channel monitoring...
+2025-07-11 11:11:35,935 - INFO - 📡 Setting up monitoring for @LootWaliShopping2_0
+2025-07-11 11:11:35,936 - INFO - 📋 Starting queue processing loop...
+2025-07-11 11:11:35,937 - INFO - 📊 Queue status: 0/50 items, 0/4 posts in window
+2025-07-11 11:11:36,045 - INFO - 🔓 Access confirmed: Loot Wali Shopping 2.0 (ID: -1002587367709)
+2025-07-11 11:11:36,047 - INFO - 🔄 Syncing new messages for @LootWaliShopping2_0 since message ID: 1505
+2025-07-11 11:11:36,280 - INFO - 📥 Found 19 new messages to process
+2025-07-11 11:11:36,281 - INFO - 📥 Processing new message ID: 1506
+2025-07-11 11:11:36,283 - INFO - ⏭️ No product URL found in message 1506, skipping
+2025-07-11 11:11:36,796 - INFO - 📥 Processing new message ID: 1507
+2025-07-11 11:11:36,798 - INFO - ⏭️ No product URL found in message 1507, skipping
+2025-07-11 11:11:37,301 - INFO - 📥 Processing new message ID: 1508
+2025-07-11 11:11:37,302 - INFO - 🔍 Processing message 1508 from Loot Wali Shopping 2.0
+2025-07-11 11:11:37,864 - INFO - 🔗 Shortening URL: https://bitli.in/8TeLisp
+2025-07-11 11:11:50,308 - INFO - ✅ URL shortened successfully: https://gplinks.co/lCasy...
+2025-07-11 11:11:51,127 - ERROR - ❌ Error processing URL https://bitli.in/8TeLisp: 'utf-16-le' codec can't decode bytes in position 200-201: unexpected end of data
+2025-07-11 11:11:51,819 - INFO - 🔗 Shortening URL: https://bitli.in/CvASIhJ
+2025-07-11 11:11:53,746 - INFO - ✅ URL shortened successfully: https://gplinks.co/GtdJ...
+2025-07-11 11:11:54,793 - ERROR - ❌ Error processing URL https://bitli.in/CvASIhJ: 'utf-16-le' codec can't decode bytes in position 200-201: unexpected end of data
+2025-07-11 11:11:55,301 - INFO - 📥 Processing new message ID: 1509
+2025-07-11 11:11:55,303 - INFO - 🔍 Processing message 1509 from Loot Wali Shopping 2.0
+2025-07-11 11:11:55,432 - INFO - 🔗 Shortening URL: https://fkrt.cc/gapyu3m
+2025-07-11 11:11:57,829 - INFO - ✅ URL shortened successfully: https://gplinks.co/SvK8u...
+2025-07-11 11:12:04,899 - INFO - ✅ Posted deal immediately: https://fkrt.cc/gapyu3m
+2025-07-11 11:12:04,913 - INFO - ✅ Processed 1 URLs from message 1509
+2025-07-11 11:12:05,429 - INFO - 📥 Processing new message ID: 1510
+2025-07-11 11:12:05,433 - INFO - 🔍 Processing message 1510 from Loot Wali Shopping 2.0
+2025-07-11 11:12:05,546 - INFO - 🔗 Shortening URL: https://fkrt.cc/g1uoqxQ
+2025-07-11 11:12:20,855 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 11:12:20,856 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:12:26,305 - INFO - ✅ URL shortened successfully: https://gplinks.co/ePK830bc...
+2025-07-11 11:12:29,607 - INFO - ✅ Posted deal immediately: https://fkrt.cc/g1uoqxQ
+2025-07-11 11:12:29,618 - INFO - ✅ Processed 1 URLs from message 1510
+2025-07-11 11:12:30,134 - INFO - 📥 Processing new message ID: 1511
+2025-07-11 11:12:30,137 - INFO - 🔍 Processing message 1511 from Loot Wali Shopping 2.0
+2025-07-11 11:12:30,199 - INFO - 🔗 Shortening URL: https://fkrt.cc/gsKZlzp
+2025-07-11 11:12:48,350 - ERROR - ❌ GPLinks API error (attempt 1/4): HTTPSConnectionPool(host='api.gplinks.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 11:12:48,351 - INFO - 🔁 Retrying GPLinks in 1s...
+2025-07-11 11:12:48,351 - INFO - 🛑 Queue processing cancelled
+2025-07-11 11:12:48,376 - INFO - ✅ Pyrogram client stopped
+2025-07-11 11:12:48,381 - INFO - 🛑 Application stopped by user
+2025-07-11 11:12:48,382 - INFO - 🏁 Application shutdown complete
+2025-07-11 11:12:48,382 - INFO - ✅ Resources released
+2025-07-11 11:59:43,318 - INFO - 🚀 Starting application main loop
+2025-07-11 11:59:43,320 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 11:59:43,321 - INFO - 💾 Database initialized
+2025-07-11 11:59:44,812 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 11:59:46,283 - ERROR - ❌ Pyrogram login failed: Telegram says: [401 AUTH_KEY_UNREGISTERED] - The key is not registered in the system. Delete your session file and login again (caused by "updates.GetState")
+2025-07-11 11:59:46,286 - INFO - 🏁 Application shutdown complete
+2025-07-11 11:59:46,287 - INFO - ✅ Resources released
+2025-07-11 11:59:59,997 - INFO - 🚀 Starting application main loop
+2025-07-11 11:59:59,998 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 12:00:00,000 - INFO - 💾 Database initialized
+2025-07-11 12:00:01,482 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 12:00:02,639 - ERROR - ❌ Pyrogram login failed: Telegram says: [401 AUTH_KEY_UNREGISTERED] - The key is not registered in the system. Delete your session file and login again (caused by "updates.GetState")
+2025-07-11 12:00:02,642 - INFO - 🏁 Application shutdown complete
+2025-07-11 12:00:02,643 - INFO - ✅ Resources released
+2025-07-11 12:00:23,820 - INFO - 🚀 Starting application main loop
+2025-07-11 12:00:23,839 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 12:00:23,842 - INFO - 💾 Database initialized
+2025-07-11 12:00:26,488 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 12:00:27,659 - ERROR - ❌ Pyrogram login failed: Telegram says: [401 AUTH_KEY_UNREGISTERED] - The key is not registered in the system. Delete your session file and login again (caused by "updates.GetState")
+2025-07-11 12:00:27,662 - INFO - 🏁 Application shutdown complete
+2025-07-11 12:00:27,662 - INFO - ✅ Resources released
+2025-07-11 12:00:53,827 - INFO - 🚀 Starting application main loop
+2025-07-11 12:00:53,829 - INFO - 🚀 Deal Auto Poster - Advanced Edition Starting
+2025-07-11 12:00:53,830 - INFO - 💾 Database initialized
+2025-07-11 12:00:55,153 - INFO - 🤖 Bot initialized: @Price_Tracker_1Bot
+2025-07-11 12:00:56,320 - ERROR - ❌ Pyrogram login failed: Telegram says: [401 AUTH_KEY_UNREGISTERED] - The key is not registered in the system. Delete your session file and login again (caused by "updates.GetState")
+2025-07-11 12:00:56,323 - INFO - 🏁 Application shutdown complete
+2025-07-11 12:00:56,323 - INFO - ✅ Resources released
